@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -76,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
