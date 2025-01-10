@@ -17,11 +17,11 @@ public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
         
-        int cnt;
+        int cnt = 0;
 
         int sum = 0;
 
-        recursion(nums , 0 , sum , target , 0);
+        recursion(nums , 0 , sum , target , cnt);
 
         return cnt;
     }
