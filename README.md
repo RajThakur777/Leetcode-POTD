@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0238-product-of-array-except-self) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0476-number-complement) |
+| [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sliding Window
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 ## Greedy
 |  |
