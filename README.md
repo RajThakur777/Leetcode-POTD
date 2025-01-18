@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
