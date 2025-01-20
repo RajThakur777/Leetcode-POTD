@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2551-apply-operations-to-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2714-left-and-right-sum-differences) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
+| [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2737-row-with-maximum-ones) |
 ## Brainteaser
 |  |
