@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0090-subsets-ii) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1677-matrix-diagonal-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1677-matrix-diagonal-sum) |
