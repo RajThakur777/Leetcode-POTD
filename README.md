@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
