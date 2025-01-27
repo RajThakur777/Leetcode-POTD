@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0958-sort-array-by-parity-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2551-apply-operations-to-an-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
