@@ -17,8 +17,8 @@ public:
         ListNode* temp = head;
 
         while(temp != nullptr){
-            temp = temp->next;
             sz++;
+            temp = temp->next;
         }
         
         if(sz == n) return head->next;
