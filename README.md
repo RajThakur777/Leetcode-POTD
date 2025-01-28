@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1677-matrix-diagonal-sum) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
