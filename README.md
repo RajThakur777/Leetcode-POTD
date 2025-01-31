@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
+| [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2551-apply-operations-to-an-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0200-number-of-islands) |
