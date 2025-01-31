@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1674-minimum-operations-to-make-array-equal) |
 ## Simulation
 |  |
 | ------- |
