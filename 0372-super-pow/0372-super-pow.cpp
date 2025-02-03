@@ -1,7 +1,8 @@
 class Solution {
 public:
     const int MOD = 1337;
-    int myPowe(int a , int k){
+    
+    int myPower(int a , int k){
         a %= MOD;
 
         int res = 1;
@@ -17,8 +18,8 @@ public:
         int lastDigit = b.back();
         b.pop_back();
 
-        int ans1 = myPowe(superPow(a , b) , 10);
-        int ans2 = myPowe(a , lastDigit);
+        int ans1 = myPower(superPow(a , b) , 10);
+        int ans2 = myPower(a , lastDigit);
 
         return (ans1 * ans2) % MOD;
     }
