@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3455-minimum-length-of-string-after-operations) |
