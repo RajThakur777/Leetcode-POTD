@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1677-matrix-diagonal-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2050-count-good-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2050-count-good-numbers) |
