@@ -1,27 +1,29 @@
 class Solution {
 public:
 
-    void recursion(int n , vector<string> &ans , string s){
+    void helper(int n , vector<string> &ans , string res){
         if(n == 0){
-            ans.push_back(s);
+            ans.push_back(res);
             return;
         }
 
-        if(s.empty() || s.back() == '1'){
-            recursion(n-1 , ans , s + '0');
-            recursion(n-1 , ans , s + '1');
+            //take-1
+        if(res.empty() || res.back() == '1'){
+            helper(n-1 , ans , res+'1');
+            helper(n-1 , ans , res+'0');
         }
         else {
-            recursion(n-1 , ans , s + '1');
+            //take-0
+            helper(n-1 , ans , res+'1');
         }
     }
 
     vector<string> validStrings(int n) {
         vector<string> ans;
-        
-        string s;
 
-        recursion(n , ans , s);
+        string res;
+
+        helper(n , ans , res);
 
         return ans;
     }
