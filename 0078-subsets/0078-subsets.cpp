@@ -1,26 +1,28 @@
 class Solution {
 public:
 
-    void recursion(vector<int> &nums , int idx , vector<vector<int>> &ans , vector<int> &temp){
+    void helper(int idx , vector<int> &nums , vector<int> &res , vector<vector<int>> &ans){
         if(idx == nums.size()){
-            ans.push_back(temp);
+            ans.push_back(res);
             return;
         }
 
         //pick
-        temp.push_back(nums[idx]);
-        recursion(nums , idx + 1 , ans , temp);
-        temp.pop_back();
+        res.push_back(nums[idx]);
+        helper(idx+1 , nums , res , ans);
+        res.pop_back();
 
         //not-pick
-        recursion(nums , idx + 1 , ans , temp);
+        helper(idx+1 , nums , res , ans);
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> temp;
+        int n = nums.size();
 
-        recursion(nums , 0 , ans , temp); 
+        vector<vector<int>> ans;
+        vector<int> res;
+
+        helper(0 , nums , res , ans);
 
         return ans;
     }
