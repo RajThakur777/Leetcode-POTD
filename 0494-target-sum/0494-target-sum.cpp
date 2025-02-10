@@ -1,25 +1,22 @@
 class Solution {
 public:
 
-    void recursion(int idx , vector<int>& nums , int target , int sum , int &cnt){
+    int helper(int idx , vector<int> &nums , int target , int sum){
         if(idx == nums.size()){
-            if(sum == target){
-                cnt++;
-            }
-            return;
+            return sum == target;
         }
+        //plus
+        int plus = helper(idx + 1 , nums , target , sum + nums[idx]);
 
-        recursion(idx+1 , nums , target , sum + nums[idx] , cnt);
+        //minus
+        int minus = helper(idx + 1 , nums , target , sum - nums[idx]);
 
-        recursion(idx+1 , nums , target , sum - nums[idx] , cnt);
+        return plus + minus;
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
-        int sum = 0;
-        int cnt = 0;
+        int n = nums.size();
 
-        recursion(0 , nums , target , 0 , cnt);
-
-        return cnt;
+        return helper(0 , nums , target , 0);
     }
 };
