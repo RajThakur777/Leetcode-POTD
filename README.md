@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2551-apply-operations-to-an-array) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3447-clear-digits) |
 ## Monotonic Stack
