@@ -60,7 +60,7 @@ public:
         for(int i=0; i<n; i++){
             int sum = digitSum(nums[i]);
 
-            if(mpp.count(sum)){
+            if(mpp.find(sum) != mpp.end()){
                 maxi = max(maxi , mpp[sum] + nums[i]);
             }
 
