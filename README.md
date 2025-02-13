@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0078-subsets) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
