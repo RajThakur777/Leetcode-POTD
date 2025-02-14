@@ -1,49 +1,51 @@
+// //Recursion:
 // class Solution {
 // public:
 
-//     int recursion(int i , int j , int m , int n , vector<vector<int>>& obstacleGrid){
-//         if(i == m-1 && j == n-1) return 1;
-
-//         if(i >= m || j >= n) return 0;
-
-//         if(obstacleGrid[i][j] == 1) return 0;
-
-//         return recursion(i+1 , j , m , n , obstacleGrid) + recursion(i , j+1 , m , n , obstacleGrid);
-//     }
-
-//     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) { 
+//     int helper(int i , int j , vector<vector<int>>& obstacleGrid){
 //         int m = obstacleGrid.size();
 //         int n = obstacleGrid[0].size();
 
-//         return recursion(0 , 0 , m , n , obstacleGrid);
+//         if(i >= m || j >= n || obstacleGrid[i][j] == 1) return 0;
+
+//         if(i == m-1 && j == n-1) return 1;
+
+//         return helper(i+1 , j , obstacleGrid) + helper(i , j+1 , obstacleGrid);
+//     }
+
+//     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {  
+//         int m = obstacleGrid.size();
+//         int n = obstacleGrid[0].size();
+
+//         return helper(0 , 0 , obstacleGrid); 
 //     }
 // };
 
 
 
 
-
-
+//Memoization:
+//Recursion:
 class Solution {
 public:
-    int recursion(int i , int j , int m , int n , vector<vector<int>>& obstacleGrid , vector<vector<int>>& dp){
-        if(i == m-1 && j == n-1) {
-            if(obstacleGrid[i][j] == 1) return 0;
 
-            return 1;
-        }
+    int helper(int i , int j , vector<vector<int>>& obstacleGrid , vector<vector<int>> &dp){
+        int m = obstacleGrid.size();
+        int n = obstacleGrid[0].size();
 
         if(i >= m || j >= n || obstacleGrid[i][j] == 1) return 0;
 
+        if(i == m-1 && j == n-1) return 1;
+
         if(dp[i][j] != -1) return dp[i][j];
 
-        return dp[i][j] = recursion(i+1 , j , m , n , obstacleGrid , dp) + recursion(i , j+1 , m , n , obstacleGrid , dp);
+        return dp[i][j] = helper(i+1 , j , obstacleGrid , dp) + helper(i , j+1 , obstacleGrid , dp);
     }
 
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) { 
+    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {  
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
-        
+
         vector<vector<int>> dp(m , vector<int> (n));
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
@@ -51,6 +53,6 @@ public:
             }
         }
 
-        return recursion(0 , 0 , m , n , obstacleGrid , dp);
+        return helper(0 , 0 , obstacleGrid , dp); 
     }
 };
