@@ -23,6 +23,7 @@ public:
 
             ans += helper(nr , nc , cnt-1 , grid);
         }
+        grid[r][c] = temp;
         return ans;
     }
 
