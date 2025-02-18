@@ -21,11 +21,11 @@ public:
                     if(prevDigit < i) return false;
                 }
             }
-
-            curr[idx] = i + '0';
+           
+            curr[idx] = i + '0'; //DO
             used[i] = true;
-            if(helper(idx+1 , pattern , curr , used) == true) return true;
-            used[i] = false;
+            if(helper(idx+1 , pattern , curr , used) == true) return true; //EXPLORE
+            used[i] = false; //UNDO
         }
         return false;
     }
