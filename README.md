@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
