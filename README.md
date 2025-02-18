@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
