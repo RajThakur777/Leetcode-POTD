@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0958-sort-array-by-parity-ii) |
 | [0983-validate-stack-sequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0983-validate-stack-sequences) |
+| [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0958-sort-array-by-parity-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0372-super-pow) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1477-product-of-the-last-k-numbers) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0372-super-pow) |
+| [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2434-design-a-number-container-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2434-design-a-number-container-system) |
@@ -624,8 +629,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1477-product-of-the-last-k-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
