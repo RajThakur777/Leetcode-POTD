@@ -34,27 +34,35 @@
 
 
 
-//Recursion:
+//Recursion + Backtracking:
 class Solution {
 public:
 
-    void helper(int idx , int n , vector<string> &ans , string curr , int k){
-        if(idx == n){
+    void helper(string curr , vector<string> &ans , int n){
+        if(curr.size() == n){
             ans.push_back(curr);
             return;
         }
 
+        //try out every possibilities:
         for(char ch='a'; ch<='c'; ch++){
-            if(curr.size() > 0 && curr.back() == ch) continue;
+            if(!curr.empty() && curr.back() == ch) continue;
 
-            helper(idx+1 , n , ans , curr+ch , k);
+            //DO
+            curr.push_back(ch);
+
+            //EXPLORE
+            helper(curr , ans , n);
+
+            //UNDO
+            curr.pop_back();
         }
     }
 
     string getHappyString(int n, int k) {
         vector<string> ans;
 
-        helper(0 , n , ans , "" , k);
+        helper("" , ans , n);
 
         if(ans.size() < k){
             return "";
