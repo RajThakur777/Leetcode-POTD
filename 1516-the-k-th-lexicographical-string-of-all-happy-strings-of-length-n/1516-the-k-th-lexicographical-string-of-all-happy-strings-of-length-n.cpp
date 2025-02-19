@@ -35,38 +35,84 @@
 
 
 //Recursion + Backtracking:
+// class Solution {
+// public:
+
+//     void helper(string curr , vector<string> &ans , int n){
+//         if(curr.size() == n){
+//             ans.push_back(curr);
+//             return;
+//         }
+
+//         //try out every possibilities:
+//         for(char ch='a'; ch<='c'; ch++){
+//             if(!curr.empty() && curr.back() == ch) continue;
+
+//             //DO
+//             curr.push_back(ch);
+
+//             //EXPLORE
+//             helper(curr , ans , n);
+
+//             //UNDO
+//             curr.pop_back();
+//         }
+//     }
+
+//     string getHappyString(int n, int k) {
+//         vector<string> ans;
+
+//         helper("" , ans , n);
+
+//         if(ans.size() < k){
+//             return "";
+//         }
+//         return ans[k-1];
+//     }
+// };
+
+
+
+
+
 class Solution {
 public:
-
-    void helper(string curr , vector<string> &ans , int n){
-        if(curr.size() == n){
-            ans.push_back(curr);
+    void solve(int n, string &curr, int &count, int k, string &result) {
+        if (curr.length() == n) {
+            count++;
+            if (count == k) {
+                result = curr;  // Store only the k-th string
+            }
             return;
         }
-
-        //try out every possibilities:
-        for(char ch='a'; ch<='c'; ch++){
-            if(!curr.empty() && curr.back() == ch) continue;
-
-            //DO
+        
+        for (char ch = 'a'; ch <= 'c'; ch++) {
+            if (!curr.empty() && curr.back() == ch)
+                continue;
+            
+            // Do
             curr.push_back(ch);
 
-            //EXPLORE
-            helper(curr , ans , n);
+            // Explore
+            solve(n, curr, count, k, result);
 
-            //UNDO
+            // If result is found, exit early
+            if (!result.empty()) return;
+
+            // Undo
             curr.pop_back();
         }
     }
 
     string getHappyString(int n, int k) {
-        vector<string> ans;
+        string curr = "";
 
-        helper("" , ans , n);
+        string result = "";
+        
+        int count = 0;
+        
+        solve(n, curr, count, k, result);
 
-        if(ans.size() < k){
-            return "";
-        }
-        return ans[k-1];
+        return result;
     }
 };
