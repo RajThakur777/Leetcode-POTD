@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1477-product-of-the-last-k-numbers) |
 | [1955-seat-reservation-manager](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1955-seat-reservation-manager) |
 | [2434-design-a-number-container-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2434-design-a-number-container-system) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0145-binary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -617,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0145-binary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
