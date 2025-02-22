@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0739-daily-temperatures) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0937-online-stock-span) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
