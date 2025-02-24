@@ -9,23 +9,46 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-//Brute force:
+// //Brute force:
+// class Solution {
+// public:
+//     void preorder(vector<int> &ans , TreeNode* root){
+//         if(root == nullptr) return;
+
+//         ans.push_back(root->val);
+//         preorder(ans , root->left);
+//         preorder(ans , root->right);
+//     }
+
+//     int kthSmallest(TreeNode* root, int k) {
+//         vector<int> ans;
+//         preorder(ans , root);
+
+//         sort(ans.begin() , ans.end());
+
+//         return ans[k-1];
+//     }
+// };
+
+
+
+
+
+//Better Appraoch:
 class Solution {
 public:
-    void preorder(vector<int> &ans , TreeNode* root){
+    void inorder(vector<int> &ans , TreeNode* root){
         if(root == nullptr) return;
 
+        inorder(ans , root->left);
         ans.push_back(root->val);
-        preorder(ans , root->left);
-        preorder(ans , root->right);
+        inorder(ans , root->right);
     }
 
     int kthSmallest(TreeNode* root, int k) {
         vector<int> ans;
-        preorder(ans , root);
-
-        sort(ans.begin() , ans.end());
-
+        inorder(ans , root);
+        
         return ans[k-1];
     }
 };
