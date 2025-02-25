@@ -58,6 +58,43 @@
 
 
 //Using prefix sums:
+// class Solution {
+// public:
+//     int MOD = 1e9 + 7;
+
+//     int numOfSubarrays(vector<int>& arr) {
+//         int n = arr.size();
+
+//         vector<int> prefix(n);
+//         prefix[0] = arr[0];
+
+//         for(int i=1; i<n; i++){
+//             prefix[i] = prefix[i-1] + arr[i];
+//         }
+
+//         int ans = 0;
+//         int odd = 0;
+//         int even = 1;
+
+//         for(int i=0; i<n; i++){
+//             if(prefix[i] % 2 == 0){
+//                 ans = (ans + odd) % MOD;
+//                 even++;
+//             }
+//             else {
+//                 ans = (ans + even) % MOD;
+//                 odd++;
+//             }
+//         }
+//         return ans % MOD;
+//     }
+// };
+
+
+
+
+
+
 class Solution {
 public:
     int MOD = 1e9 + 7;
@@ -65,19 +102,15 @@ public:
     int numOfSubarrays(vector<int>& arr) {
         int n = arr.size();
 
-        vector<int> prefix(n);
-        prefix[0] = arr[0];
-
-        for(int i=1; i<n; i++){
-            prefix[i] = prefix[i-1] + arr[i];
-        }
-
         int ans = 0;
         int odd = 0;
         int even = 1;
+        int sum = 0;
 
         for(int i=0; i<n; i++){
-            if(prefix[i] % 2 == 0){
+            sum += arr[i];
+            
+            if(sum % 2 == 0){
                 ans = (ans + odd) % MOD;
                 even++;
             }
