@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2465-shifting-letters-ii) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
