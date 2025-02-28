@@ -8,7 +8,7 @@ public:
         }
 
         //try all digits
-        for(int i=0; i<10; i++){
+        for(int i=0; i<=9; i++){
             if(abs(i - lastDigit) == k){
                 helper(num * 10 + i , i , n , k , idx + 1 , res);
             }
