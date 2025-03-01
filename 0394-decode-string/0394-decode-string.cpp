@@ -1,44 +1,49 @@
 class Solution {
 public:
+    string decodeString(string s) { 
+        int n = s.size();
 
-    string decodeString(string s) {
+        string ans = "";
+
         stack<char> st;
-        for(int i = 0; i < s.size(); i++){
-            if(s[i] != ']') {
+
+        for(int i=0; i<n; i++){
+            if(s[i] != ']'){
                 st.push(s[i]);
             }
-            else{
-                string curr_str = "";
-                
-                while(st.top() != '['){
-                    curr_str = st.top() + curr_str ;
+            else {
+                string curr = "";
+
+                while(!st.empty() && st.top() != '['){
+                    curr = st.top() + curr;
                     st.pop();
                 }
-                
-                st.pop();   // for '['
-                string number = "";
-                
-                // for calculating number
-                
+
+                st.pop();
+
+                //extract number:
+                string num = "";
+
                 while(!st.empty() && isdigit(st.top())){
-                    number = st.top() + number;
+                    num = st.top() + num;
                     st.pop();
                 }
-                int k_time = stoi(number);    // convert string to number
-                
-                while(k_time--){
-                    for(int p = 0; p < curr_str.size() ; p++)
-                        st.push(curr_str[p]);
+
+                int k = stoi(num);
+
+                while(k--){
+                    for(int j=0; j<curr.size(); j++){
+                        st.push(curr[j]);
+                    }
                 }
+                curr = "";
+                num = "";
             }
         }
-        
-        s = "";
         while(!st.empty()){
-            s = st.top() + s;
+            ans =  st.top() + ans;
             st.pop();
         }
-        return s;
-        
+        return ans;
     }
 };
