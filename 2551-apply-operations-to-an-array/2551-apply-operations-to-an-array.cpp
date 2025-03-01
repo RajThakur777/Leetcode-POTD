@@ -5,18 +5,31 @@ public:
 
         for(int i=0; i<n-1; i++){
             if(nums[i] == nums[i+1]){
-                nums[i] = nums[i] * 2;
+                nums[i] *= 2;
                 nums[i+1] = 0;
             }
         }
+
+        vector<int> zeroes;
         for(int i=0; i<n; i++){
-            for(int j=i+1; j<n; j++){
-                if(nums[i] == 0 && nums[j] != 0){
-                    swap(nums[i] , nums[j]);
-                }
+            if(nums[i] == 0){
+                zeroes.push_back(nums[i]);
             }
         }
 
-        return nums;
+        vector<int> ans;
+        for(int i=0; i<n; i++){
+            if(nums[i] != 0){
+                ans.push_back(nums[i]);
+            }
+        }
+
+        int cnt = zeroes.size();
+
+        while(cnt > 0){
+            ans.push_back(0);
+            cnt--;
+        }
+        return ans;
     }
 };
