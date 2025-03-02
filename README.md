@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Linked List
 |  |
