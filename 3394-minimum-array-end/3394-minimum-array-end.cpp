@@ -1,11 +1,26 @@
+// class Solution {
+// public:
+//     long long minEnd(int n, int x) {
+//         long long res = x;
+
+//         while(--n){
+//             res = (res + 1) | x;
+//         }
+//         return res;
+//     }
+// };
+
+
+
+
 class Solution {
 public:
     long long minEnd(int n, int x) {
-        long long res = x;
+        long long num = x;
 
-        while(--n){
-            res = (res + 1) | x;
+        for(int i=1; i<n; i++){
+            num = (num + 1) | x;
         }
-        return res;
+        return num;
     }
 };
