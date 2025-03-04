@@ -1,36 +1,38 @@
+//Sliding Window:
 class Solution {
 public:
-    int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {   
-        int n = grumpy.size();
+    int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) { 
+        int n = customers.size();
 
-        int ans = INT_MIN;
+        //calculate initial number of customers which are satisfied:
         int sum = 0;
-
-        int val = 0;
-         for(int j = 0; j < n; j++) {
-            if(grumpy[j] == 0) {
-                val += customers[j];
+        for(int i=0; i<n; i++){
+            if(grumpy[i] == 0){
+                sum += customers[i];
             }
-        }
+        }  
 
+        //check every window of size minute having not satisfied customers and take maximum:
         int i = 0;
+        int val = 0;
+        int ans = INT_MIN;
+
         for(int j=0; j<n; j++){
             if(grumpy[j] == 1){
-                sum += customers[j];
+                val += customers[j];
             }
 
             while((j - i + 1) > minutes){
                 if(grumpy[i] == 1){
-                    sum -= customers[i];
+                    val -= customers[i];
                 }
                 i++;
             }
 
             if((j - i + 1) == minutes){
-                ans = max(ans , sum);
+                ans = max(ans , val);
             }
         }
-
-        return val + ans;
+        return ans + sum;
     }
 };
