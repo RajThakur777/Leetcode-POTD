@@ -19,7 +19,7 @@ public:
                 sum += customers[j];
             }
 
-            if((j - i + 1) > minutes){
+            while((j - i + 1) > minutes){
                 if(grumpy[i] == 1){
                     sum -= customers[i];
                 }
