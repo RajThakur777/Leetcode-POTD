@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2792-neighboring-bitwise-xor) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2792-neighboring-bitwise-xor) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3394-minimum-array-end](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3394-minimum-array-end) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
