@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2792-neighboring-bitwise-xor) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3227-find-missing-and-repeated-values) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2649-count-total-number-of-colored-cells) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
 | ------- |
