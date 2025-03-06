@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
+| [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1138-grumpy-bookstore-owner) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1477-product-of-the-last-k-numbers) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2478-longest-nice-subarray) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
