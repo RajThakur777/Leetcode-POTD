@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0200-number-of-islands) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
