@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1435-xor-queries-of-a-subarray) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1502-construct-k-palindrome-strings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
