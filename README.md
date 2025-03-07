@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2478-longest-nice-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2478-longest-nice-subarray) |
 ## String Matching
 |  |
