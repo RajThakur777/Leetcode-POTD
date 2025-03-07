@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2610-closest-prime-numbers-in-range](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2649-count-total-number-of-colored-cells) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -844,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
