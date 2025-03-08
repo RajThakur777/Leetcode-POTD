@@ -10,7 +10,7 @@ public:
 
         unordered_set<int> st;
         for(int j=0; j<n; j++){
-            while(st.find(nums[j]) != st.end() || st.size() == k) {
+            while(st.find(nums[j]) != st.end() || st.size() >= k) {
                 sum -= nums[i];
                 st.erase(nums[i]);
                 i++;
