@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3463-alternating-groups-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
 ## String Matching
 |  |
 | ------- |
