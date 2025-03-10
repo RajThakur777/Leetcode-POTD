@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## String
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3463-alternating-groups-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## String Matching
 |  |
 | ------- |
