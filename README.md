@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0739-daily-temperatures) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0860-design-circular-queue](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0860-design-circular-queue) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
+| [0860-design-circular-queue](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1477-product-of-the-last-k-numbers) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
+| [0860-design-circular-queue](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0860-design-circular-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Combinatorics
 |  |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
