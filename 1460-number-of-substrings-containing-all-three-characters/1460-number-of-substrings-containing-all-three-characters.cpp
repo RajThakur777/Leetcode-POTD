@@ -31,29 +31,61 @@
 
 
 
+// class Solution {
+// public:
+//     int numberOfSubstrings(string s) {
+//         int n = s.length();
+
+//         int result = 0;
+        
+//         vector<int> mp(3, 0); //0 - a, 1 - b, 2 - c
+
+//         int i = 0;
+//         int j = 0;
+//         while(j < n) {
+//             char ch = s[j];
+//             mp[ch-'a']++;
+
+//             while(mp[0] > 0 && mp[1] > 0 && mp[2] > 0) {
+//                 result += (n - j);
+
+//                 mp[s[i] - 'a']--;
+//                 i++;
+//             }
+//             j++;
+//         }
+//         return result;   
+//     }
+// };
+
+
+
+
+
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n = s.length();
+        int n = s.size();
 
-        int result = 0;
-        
-        vector<int> mp(3, 0); //0 - a, 1 - b, 2 - c
+        int ans = 0;
 
         int i = 0;
-        int j = 0;
-        while(j < n) {
-            char ch = s[j];
-            mp[ch-'a']++;
+        map<char , int> mpp;
 
-            while(mp[0] > 0 && mp[1] > 0 && mp[2] > 0) {
-                result += (n - j);
+        for(int j=0; j<n; j++){
+            mpp[s[j]]++;
 
-                mp[s[i] - 'a']--;
+            while(mpp.size() == 3){
+                ans += (n - j);
+
+                mpp[s[i]]--;
+                    
+                if(mpp[s[i]] == 0){
+                    mpp.erase(s[i]);
+                }
                 i++;
             }
-            j++;
         }
-        return result;   
+        return ans;
     }
 };
