@@ -3,7 +3,7 @@ public:
     int numberOfSubstrings(string s) {
         int n = s.size();
 
-        long long ans = 0;
+        int ans = 0;
 
         int i = 0;
         map<char , int> mpp;
@@ -24,6 +24,6 @@ public:
                 i++;
             }
         }
-        return (int)ans;
+        return ans;
     }
 };
