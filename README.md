@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1524-string-matching-in-an-array) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2089-maximum-matrix-sum) |
