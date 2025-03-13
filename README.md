@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0078-subsets) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
