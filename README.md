@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
