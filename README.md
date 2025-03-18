@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0229-majority-element-ii) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
