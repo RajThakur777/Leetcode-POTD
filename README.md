@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0876-hand-of-straights) |
+| [0901-advantage-shuffle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0901-advantage-shuffle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0917-boats-to-save-people) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0901-advantage-shuffle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0958-sort-array-by-parity-ii) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0876-hand-of-straights](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0876-hand-of-straights) |
+| [0901-advantage-shuffle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0958-sort-array-by-parity-ii) |
@@ -679,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0376-wiggle-subsequence) |
 | [0876-hand-of-straights](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0876-hand-of-straights) |
+| [0901-advantage-shuffle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
