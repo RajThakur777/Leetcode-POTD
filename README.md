@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2050-count-good-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2610-closest-prime-numbers-in-range) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2737-row-with-maximum-ones) |
