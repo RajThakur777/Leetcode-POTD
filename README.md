@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2487-optimal-partition-of-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2465-shifting-letters-ii) |
+| [2487-optimal-partition-of-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3195-separate-black-and-white-balls](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2487-optimal-partition-of-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
