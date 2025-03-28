@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2428-equal-row-and-column-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2428-equal-row-and-column-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2428-equal-row-and-column-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
