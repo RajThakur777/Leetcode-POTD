@@ -10,7 +10,7 @@ public:
         unordered_map<int,int> tmp;
         while(!mp.empty()){
             tmp = mp;
-            v.clear();
+            
             for(auto &i: tmp){
                 mp[i.first]--;
                 v.push_back(i.first);
@@ -19,6 +19,7 @@ public:
                 }
             }
             ans.push_back(v);
+            v.clear();
         }
         return ans;
     }
