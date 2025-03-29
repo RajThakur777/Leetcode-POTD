@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2714-left-and-right-sum-differences) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2737-row-with-maximum-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
