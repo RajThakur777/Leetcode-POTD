@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0055-jump-game) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0069-sqrtx) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
