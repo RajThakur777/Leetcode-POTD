@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1138-grumpy-bookstore-owner) |
+| [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1319-unique-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
+| [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0985-bag-of-tokens) |
+| [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1018,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
+| [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1955-seat-reservation-manager) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2094-remove-stones-to-minimize-the-total) |
