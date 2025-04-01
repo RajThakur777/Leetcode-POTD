@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2792-neighboring-bitwise-xor) |
+| [2845-find-the-value-of-the-partition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2845-find-the-value-of-the-partition) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3001-apply-operations-to-maximize-score) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2845-find-the-value-of-the-partition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2845-find-the-value-of-the-partition) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
