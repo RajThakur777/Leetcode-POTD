@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3001-apply-operations-to-maximize-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
