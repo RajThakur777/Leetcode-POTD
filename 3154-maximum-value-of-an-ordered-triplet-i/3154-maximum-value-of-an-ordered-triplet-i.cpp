@@ -3,7 +3,7 @@ public:
     long long maximumTripletValue(vector<int>& nums) {
         int n = nums.size();
 
-        long long ans = LLONG_MIN;
+        long long ans = 0;
 
         for(long long i=0; i<n-2; i++){
             for(long long j=i+1; j<n-1; j++){
@@ -14,6 +14,6 @@ public:
                 }
             }
         }
-        return ans == LLONG_MIN ? 0 : ans;
+        return ans;
     }
 };
