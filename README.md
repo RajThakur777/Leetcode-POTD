@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -1042,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Merge Sort
 |  |
