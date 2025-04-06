@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1448-maximum-69-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1502-construct-k-palindrome-strings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
