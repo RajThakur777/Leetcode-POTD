@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2329-maximum-product-after-k-increments) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2329-maximum-product-after-k-increments) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1100,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2329-maximum-product-after-k-increments) |
 | [2434-design-a-number-container-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2588-maximum-number-of-points-from-grid-queries) |
