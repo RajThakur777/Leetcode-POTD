@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-decode-xored-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1835-decode-xored-permutation) |
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1835-decode-xored-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1835-decode-xored-permutation) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2308-divide-array-into-equal-pairs) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0372-super-pow) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Recursion
 |  |
 | ------- |
@@ -929,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1677-matrix-diagonal-sum) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
@@ -1115,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1955-seat-reservation-manager](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1955-seat-reservation-manager) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1162,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Data Stream
 |  |
 | ------- |
