@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2487-optimal-partition-of-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2634-minimum-common-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
