@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1945-finding-the-users-active-minutes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-finding-the-users-active-minutes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1945-finding-the-users-active-minutes) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
