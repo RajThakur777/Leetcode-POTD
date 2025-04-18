@@ -3,63 +3,53 @@ public:
     string longestDiverseString(int a, int b, int c) {
         priority_queue<pair<int , char>> pq;
 
-        pq.push({a , 'a'});
-        pq.push({b , 'b'});
-        pq.push({c , 'c'});
+        if(a > 0){
+            pq.push({a , 'a'});
+        }
 
-        int n = pq.top().first;
+        if(b > 0){
+            pq.push({b , 'b'});
+        }
 
-        string ans(n , ' ');
+        if(c > 0){
+            pq.push({c , 'c'});
+        }
 
-        int freq = pq.top().first;
-        char ch = pq.top().second;
+        string ans;
 
-        pq.pop();
+        while(!pq.empty()){
+            pair<int , char> p = pq.top();
+            pq.pop();
 
-        int i = 0;
-        while(i < n && freq > 0){
-            ans[i] += ch;
-            ans[i+1] += ch;
+            char ch = p.second;
+            int freq = p.first;
 
-            freq -= 2;
+            if(ans.size() >= 2 && ans[ans.size() - 1] == ch && ans[ans.size() - 2] == ch){
+                if(pq.empty()) break;
 
-            i += 3;
+                pair<int , char> p2 = pq.top();
+                pq.pop();
 
-            if(i >= n){
-                i = 1;
-                break;
+                char ch2 = p2.second;
+                int freq2 = p2.first;
+
+                ans += ch2;
+                freq2--;
+
+                if(freq2 > 0){
+                    pq.push({freq2 , ch2});
+                }
+                pq.push({freq , ch});
+            }
+            else {
+                ans += ch;
+                freq--;
+
+                if(freq > 0){
+                    pq.push({freq , ch});
+                }
             }
         }
-
-        char ch2 = pq.top().second;
-        int freq2 = pq.top().first;
-
-        pq.pop();
-
-        while(i < n && freq2 > 0){
-            ans[i] += ch2;
-            i += 2;
-            freq2--;
-        }
-
-        char ch3 = pq.top().second;
-        int freq3 = pq.top().first;
-
-        pq.pop();
-
-        while(i < n && freq3 > 0){
-            ans[i] += ch3;
-            i += 2;
-            freq3--;
-        }
-
-        int idx = -1;
-        for(int i=0; i<n; i++){
-            if(ans[i] == ' '){
-                idx = i;
-                break;
-            }
-        }
-        return ans.substr(0 , idx+1);
+        return ans;
     }
 };
