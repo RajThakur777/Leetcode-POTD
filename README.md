@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0205-isomorphic-strings) |
