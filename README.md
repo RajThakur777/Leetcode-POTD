@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3001-apply-operations-to-maximize-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2915-count-of-interesting-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3227-find-missing-and-repeated-values) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2714-left-and-right-sum-differences) |
+| [2915-count-of-interesting-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
