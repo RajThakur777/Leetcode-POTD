@@ -3,15 +3,16 @@ public:
     int maxSubArray(vector<int>& nums) {
         int n = nums.size();
 
+        int ms = 0;
         int cs = 0;
-        int ms = INT_MIN;
 
         for(int i=0; i<n; i++){
             cs += nums[i];
 
+            if(cs < 0){
+                cs = 0;
+            }
             ms = max(ms , cs);
-
-            if(cs < 0) cs = 0;
         }
         return ms;
     }
