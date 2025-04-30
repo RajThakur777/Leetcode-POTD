@@ -13,16 +13,27 @@ public:
 
                     if(i == j || j == k || i == k) continue;
                     
-                    if(nums[k] % 2 == 1) continue;
+                    int a = nums[i];
+                    int b = nums[j];
+                    int c = nums[k];
 
-                    if(nums[i] == 0) continue;
+                    if(a == 0){
+                        break;
+                    }
+                    else if(a == 0 && b == 0 && c == 0){
+                        break;
+                    }
+                    else {
+                        int num = a * 100 + b * 10 + c;
 
-                    int num = nums[i] * 100 + nums[j] * 10 + nums[k];
-
-                    st.insert(num);
+                        if(num % 2 == 0){
+                            st.insert(num);
+                        }
+                    }
                 }
             }
         }
+
         for(auto it : st){
             ans.push_back(it);
         }
