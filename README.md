@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2122-count-special-quadruplets) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2294-minimum-time-to-complete-trips) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -1242,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1311,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
 ## Shortest Path
