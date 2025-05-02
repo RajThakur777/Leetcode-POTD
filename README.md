@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0807-custom-sort-string) |
+| [0868-push-dominoes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0868-push-dominoes) |
 | [0889-buddy-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0868-push-dominoes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0868-push-dominoes) |
 | [0901-advantage-shuffle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
+| [0868-push-dominoes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1025-minimum-cost-for-tickets) |
