@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2465-shifting-letters-ii) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2551-apply-operations-to-an-array) |
