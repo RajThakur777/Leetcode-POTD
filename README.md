@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0816-design-hashset) |
+| [0842-card-flipping-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0842-card-flipping-game) |
 | [0859-design-circular-deque](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0876-hand-of-straights) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0816-design-hashset) |
+| [0842-card-flipping-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0842-card-flipping-game) |
 | [0876-hand-of-straights](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
