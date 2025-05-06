@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1945-finding-the-users-active-minutes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1945-finding-the-users-active-minutes) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1184-car-pooling) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2048-build-array-from-permutation) |
@@ -1242,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1955-seat-reservation-manager](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1955-seat-reservation-manager) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
