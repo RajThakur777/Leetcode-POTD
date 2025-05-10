@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3001-apply-operations-to-maximize-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3195-separate-black-and-white-balls) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Stack
