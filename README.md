@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0138-copy-list-with-random-pointer) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0200-number-of-islands) |
