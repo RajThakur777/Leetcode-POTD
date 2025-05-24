@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     bool isPossible(int mid , vector<int>& nums , vector<vector<int>>& queries) {
         int n = nums.size();
 
@@ -26,7 +25,6 @@ public:
         for(int i = 0; i < n; i++) {
             if(temp[i] > diff[i]) return false;
         }
-
         return true;
     }
 
