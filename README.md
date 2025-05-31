@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
 | [0947-online-election](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0958-sort-array-by-parity-ii) |
@@ -1114,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
+| [0945-snakes-and-ladders](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1186,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
