@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2714-left-and-right-sum-differences) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2737-row-with-maximum-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2681-put-marbles-in-bags) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3001-apply-operations-to-maximize-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
