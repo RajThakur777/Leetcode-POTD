@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2122-count-special-quadruplets) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
