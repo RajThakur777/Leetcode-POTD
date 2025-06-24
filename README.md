@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2329-maximum-product-after-k-increments) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2358-number-of-ways-to-split-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2442-number-of-arithmetic-triplets) |
