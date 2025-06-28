@@ -3,26 +3,26 @@ public:
     vector<int> maxSubsequence(vector<int>& nums, int k) {
         int n = nums.size();
 
-        vector<pair<int , int>> p;
-        for(int i=0; i<n; i++){
-            p.push_back({nums[i] , i});
-        }
-
-        unordered_set<int> st;
-
-        sort(rbegin(p) , rend(p));
-
-        for(auto [val , idx] : p){
-            if(!k--) break;
-
-            st.insert(idx);
-        }
-
         vector<int> ans;
-        for(int i=0; i<n; i++){
-            if(st.count(i)){
-                ans.push_back(nums[i]);
-            }
+
+        priority_queue<pair<int , int>> pq;
+        for(int i=0; i<n; i++) {
+            pq.push({nums[i] , i});
+        }
+
+        priority_queue<pair<int , int> , vector<pair<int , int>> , greater<pair<int , int>>> q;
+        while(!pq.empty() && k--) {
+            auto it  = pq.top();
+            pq.pop();
+
+            q.push({it.second , it.first});
+        }
+
+        while(!q.empty()) {
+            auto it = q.top();
+            q.pop();
+
+            ans.push_back(it.second);
         }
         return ans;
     }
