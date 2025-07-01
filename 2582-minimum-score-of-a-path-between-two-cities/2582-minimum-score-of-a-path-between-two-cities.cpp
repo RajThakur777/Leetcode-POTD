@@ -1,3 +1,4 @@
+//DFS:
 class Solution {
 public:
     int mini = INT_MAX;
@@ -19,7 +20,7 @@ public:
 
     int minScore(int n, vector<vector<int>>& roads) {
         vector<bool> visited(n + 1, false);
-        
+
         unordered_map<int, vector<pair<int, int>>> mpp;
 
         for (auto &road : roads) {
