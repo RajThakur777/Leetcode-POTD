@@ -1,48 +1,45 @@
-//BFS - Topological Sort:
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int N = numCourses;
-        vector<int> adj[N];
+        unordered_map<int , vector<int>> mpp;
 
-        for(auto it : prerequisites){
-            adj[it[0]].push_back(it[1]);
+        int n = prerequisites.size();
+
+        for(int i=0; i<n; i++) {
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
+
+            mpp[v].push_back(u);
         }
 
-        int inDegree[N];
-        for(int i=0; i<N; i++){
-            inDegree[i] = 0;
+        vector<int> res;
+
+        vector<int> indegree(numCourses);
+        for(int i=0; i<n; i++) {
+            indegree[prerequisites[i][0]]++;
         }
 
-        for(int i=0; i<N; i++){
-            for(auto it : adj[i]){
-                inDegree[it]++;
-            }
-        }
 
         queue<int> q;
-        for(int i=0; i<N; i++){
-            if(inDegree[i] == 0){
+        for(int i=0; i<numCourses; i++) {
+            if(indegree[i] == 0) {
                 q.push(i);
             }
         }
 
-        vector<int> ans;
-        while(!q.empty()){
-            int node = q.front();
+        while(!q.empty()) {
+            int curr = q.front();
             q.pop();
+            res.push_back(curr);
 
-            ans.push_back(node);
-            for(auto it : adj[node]){
-                inDegree[it]--;
+            for(int &v : mpp[curr]) {
+                indegree[v]--;
 
-                if(inDegree[it] == 0){
-                    q.push(it);
+                if(indegree[v] == 0) {
+                    q.push(v);
                 }
             }
         }
-        if(ans.size() == N) return true;
-
-        return false;
+        return (res.size() == numCourses);
     }
 };
