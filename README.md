@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-decode-xored-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1835-decode-xored-permutation) |
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2117-find-original-array-from-doubled-array) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2090-number-of-ways-to-arrive-at-destination) |
