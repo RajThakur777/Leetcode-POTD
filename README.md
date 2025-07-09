@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Stack
 |  |
 | ------- |
