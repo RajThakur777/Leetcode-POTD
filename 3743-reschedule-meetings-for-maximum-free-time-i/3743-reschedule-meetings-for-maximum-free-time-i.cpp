@@ -23,7 +23,7 @@ public:
                 i++;
             }
 
-            if((j - i + 1) == k + 1) {
+            if((j - i + 1) <= k + 1) {
                 ans = max(ans , sum);
             }
         }
