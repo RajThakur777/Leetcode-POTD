@@ -1,60 +1,56 @@
-//BFS - Topological Sort:
 class Solution {
 public:
-    vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
-        int N = numCourses;
-        vector<int> adj[N];
+    vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) { 
+        int n =  prerequisites.size();
 
-        for(auto it : prerequisites){
-            adj[it[0]].push_back(it[1]);
+        unordered_map<int , vector<int>> mpp;
+        for(int i=0; i<n; i++) {
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
+
+            mpp[u].push_back(v);
         }
 
-        int inDegree[N];
-        for(int i=0; i<N; i++){
-            inDegree[i] = 0;
-        }
+        vector<int> indegree(numCourses , 0);
 
-        for(int i=0; i<N; i++){
-            for(auto it : adj[i]){
-                inDegree[it]++;
+        for(int i=0; i<numCourses; i++) {
+            for(int &v : mpp[i]) {
+                indegree[v]++;
             }
         }
 
         queue<int> q;
-        for(int i=0; i<N; i++){
-            if(inDegree[i] == 0){
+        for(int i=0; i<numCourses; i++) {
+            if(indegree[i] == 0) {
                 q.push(i);
             }
         }
 
-        map<int , set<int>> mpp;
-        while(!q.empty()){
-            int u = q.front();
+        unordered_map<int , unordered_set<int>> res;
+
+        while(!q.empty()) {
+            int node = q.front();
             q.pop();
 
-            for(auto v : adj[u]){
-                mpp[v].insert(u);
-                mpp[v].insert(mpp[u].begin() , mpp[u].end());
+            for(int &v : mpp[node]) {
+                res[v].insert(node);
 
-                inDegree[v]--;
+                for(auto &it : res[node]) {
+                    res[v].insert(it);
+                }
 
-                if(inDegree[v] == 0){
+                indegree[v]--;
+
+                if(indegree[v] == 0) {
                     q.push(v);
                 }
             }
         }
-        vector<bool> ans;
-        for(auto it : queries){
-            int u = it[0];
-            int v = it[1];
-
-            if(mpp[v].find(u) != mpp[v].end()){
-                ans.push_back(true);
-            }
-            else {
-                ans.push_back(false);
-            }
+        vector<bool> answer;
+        for (auto q : queries) {
+            answer.push_back(res[q[1]].contains(q[0]));
         }
-        return ans;
+
+        return answer;
     }
 };
