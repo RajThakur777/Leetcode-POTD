@@ -1045,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0800-letter-case-permutation) |
+| [0813-all-paths-from-source-to-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1160-letter-tile-possibilities) |
@@ -1293,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
@@ -1338,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1390,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
