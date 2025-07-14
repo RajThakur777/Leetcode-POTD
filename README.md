@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2089-maximum-matrix-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -1238,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1323,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
