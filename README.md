@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Math
 |  |
 | ------- |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
 | ------- |
@@ -1432,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Topological Sort
 |  |
 | ------- |
