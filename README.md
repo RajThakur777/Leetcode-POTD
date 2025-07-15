@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2379-maximum-total-importance-of-roads](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1123,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2329-maximum-product-after-k-increments) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2379-maximum-total-importance-of-roads](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1431,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2379-maximum-total-importance-of-roads](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1529,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2329-maximum-product-after-k-increments) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2379-maximum-total-importance-of-roads](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2379-maximum-total-importance-of-roads) |
 | [2434-design-a-number-container-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2479-meeting-rooms-iii) |
