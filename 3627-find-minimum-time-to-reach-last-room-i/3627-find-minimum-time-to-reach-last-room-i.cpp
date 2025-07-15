@@ -1,45 +1,53 @@
+//Dijkstra's Algo:
 class Solution {
 public:
-    vector<vector<int>> directions{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-    //{t, {i, j}}
-    typedef pair<int, pair<int, int>> P;
+    
+    typedef pair<int , pair<int , int>> P;
+
+    vector<vector<int>> directions = {{-1 , 0} , {1 , 0} , {0 , -1} , {0 , 1}};
+
+    bool is_Safe(int x , int y , vector<vector<int>> &moveTime) {
+        int n = moveTime.size();
+        int m = moveTime[0].size();
+
+        return (x >= 0 && x < n && y >= 0 && y < m);
+    }
+
     int minTimeToReach(vector<vector<int>>& moveTime) {
-        int m = moveTime.size();
-        int n = moveTime[0].size();
+        int n = moveTime.size();
+        int m = moveTime[0].size();
 
-        vector<vector<int>> result(m, vector<int>(n, INT_MAX));
-        priority_queue<P, vector<P>, greater<P>> pq; //all cells will be inserted in it (m*n)
+        vector<vector<int>> dist(n , vector<int>(m , INT_MAX));
 
-        result[0][0] = 0;
-        pq.push({0, {0, 0}});
-        //S.C : O(m*n)
-        while(!pq.empty()) { //O(m*n * log(m*n))
-            int currTime = pq.top().first;
-            auto cell     = pq.top().second;
-            int i = cell.first;
-            int j = cell.second;
+        priority_queue<P , vector<P> , greater<P>> pq;
+        pq.push({0 , {0 , 0}});
+
+        dist[0][0] = 0;
+
+        while(!pq.empty()) {
+            int time = pq.top().first;
+            int x = pq.top().second.first;
+            int y = pq.top().second.second;
 
             pq.pop();
-            if(i == m-1 && j == n-1) {
-                return currTime;
-            }
+
+            if(x == n-1 && y == m-1) return time;
 
             for(auto &dir : directions) {
-                int i_ = i + dir[0];
-                int j_ = j + dir[1];
+                int new_x = x + dir[0];
+                int new_y = y + dir[1];
 
-                if(i_ >= 0 && i_ < m && j_ >= 0 && j_ < n) {
-                    int wait    = max(moveTime[i_][j_] - currTime, 0);
-                    int arrTime = currTime + wait + 1;
+                if(is_Safe(new_x  , new_y , moveTime)) {
+                    int wait = max((moveTime[new_x][new_y] - time), 0);
+                    int new_time = wait + 1;
 
-                    if(result[i_][j_] > arrTime) {
-                        result[i_][j_] = arrTime;
-                        pq.push({arrTime, {i_, j_}});
+                    if(time + new_time < dist[new_x][new_y]) {
+                        dist[new_x][new_y] = time + new_time;
+                        pq.push({time + new_time , {new_x , new_y}});
                     }
-                    
                 }
             }
         }
-        return -1;
+        return dist[n-1][m-1];
     }
 };
