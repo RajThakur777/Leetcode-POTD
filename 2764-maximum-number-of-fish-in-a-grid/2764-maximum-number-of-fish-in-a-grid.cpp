@@ -1,32 +1,38 @@
+//DFS:
 class Solution {
 public:
 
-    int dfs(int i , int j , vector<vector<int>>& grid , vector<vector<bool>> &visited){
-        int m = grid.size();
-        int n = grid[0].size();
+    int m,n;
+    vector<vector<int>> directions = {{-1 , 0} , {1 , 0} , {0 , -1} , {0 , 1}};
 
-        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0 || visited[i][j]) return 0;
+    int dfs(int i , int j , vector<vector<int>> &grid) {
+        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0) return 0;
 
-        visited[i][j] = true;
+        int cnt = grid[i][j];
+        grid[i][j] = 0;
 
-        return grid[i][j] + dfs(i+1 , j , grid , visited) + dfs(i-1 , j , grid , visited) + dfs(i , j+1 , grid , visited) + dfs(i , j-1 , grid , visited);
+        for(auto &dir : directions) {
+            int i_ = i + dir[0];
+            int j_ = j + dir[1];
+
+            cnt += dfs(i_ , j_ , grid);
+        }
+        return cnt;
     }
 
-    int findMaxFish(vector<vector<int>>& grid) {      
-        int m = grid.size();
-        int n = grid[0].size();
-
-        vector<vector<bool>> visited(m , vector<bool>(n , false));
+    int findMaxFish(vector<vector<int>>& grid) {
+        m = grid.size();
+        n = grid[0].size();
 
         int ans = 0;
 
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(grid[i][j] > 0 && !visited[i][j]){
-                    ans = max(ans , dfs(i , j , grid , visited));
+        for(int i=0; i<m; i++) {
+            for(int j=0; j<n; j++) {
+                if(grid[i][j] > 0) {
+                    ans = max(ans , dfs(i , j , grid));
                 }
             }
-        }
-        return ans;
+        } 
+        return ans;       
     }
 };
