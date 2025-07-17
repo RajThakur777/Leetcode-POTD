@@ -1434,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1738-maximal-network-rank) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
