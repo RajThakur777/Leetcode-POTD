@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2714-left-and-right-sum-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -1263,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2685-first-completely-painted-row-or-column) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3227-find-missing-and-repeated-values) |
@@ -1349,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1459,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1566,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1671,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Counting Sort
