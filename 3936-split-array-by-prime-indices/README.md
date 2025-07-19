@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-array-by-prime-indices">Split Array by Prime Indices</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/split-array-by-prime-indices">3936. Split Array by Prime Indices</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Split <code>nums</code> into two arrays <code>A</code> and <code>B</code> using the following rule:</p>
 
