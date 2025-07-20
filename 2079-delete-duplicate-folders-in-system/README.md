@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/delete-duplicate-folders-in-system">Delete Duplicate Folders in System</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Due to a bug, there are many duplicate folders in a file system. You are given a 2D array <code>paths</code>, where <code>paths[i]</code> is an array representing an absolute path to the <code>i<sup>th</sup></code> folder in the file system.</p>
+<h2><a href="https://leetcode.com/problems/delete-duplicate-folders-in-system">2079. Delete Duplicate Folders in System</a></h2><h3>Hard</h3><hr><p>Due to a bug, there are many duplicate folders in a file system. You are given a 2D array <code>paths</code>, where <code>paths[i]</code> is an array representing an absolute path to the <code>i<sup>th</sup></code> folder in the file system.</p>
 
 <ul>
 	<li>For example, <code>[&quot;one&quot;, &quot;two&quot;, &quot;three&quot;]</code> represents the path <code>&quot;/one/two/three&quot;</code>.</li>
