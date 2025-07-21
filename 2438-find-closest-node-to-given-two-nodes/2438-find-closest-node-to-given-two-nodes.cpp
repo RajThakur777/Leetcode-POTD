@@ -1,46 +1,46 @@
 class Solution {
 public:
-    int n;
-    
-    void dfs(vector<int>& edges, int startNode, vector<int>& dist_node, vector<bool>& visited) {
-        visited[startNode] = true;
-        
-        int v = edges[startNode];
-        
-        if(v != -1 && !visited[v]) {
+
+    void dfs(int node , vector<bool> &visited , vector<int> &dist , vector<int>& edges) {
+        visited[node] = true;
+
+        int v = edges[node];
+
+        if(v != -1 && visited[v] == false) {
             visited[v] = true;
-            dist_node[v] = 1 + dist_node[startNode];
-            dfs(edges, v, dist_node, visited);
+            dist[v] = 1 + dist[node];
+            dfs(v , visited , dist , edges);
         }
     }
-    
+
     int closestMeetingNode(vector<int>& edges, int node1, int node2) {
-        n = edges.size();
-        
-        vector<int> dist1(n, INT_MAX);
-        vector<int> dist2(n, INT_MAX);
-        vector<bool> visited1(n, false);
-        vector<bool> visited2(n, false);
+        int n = edges.size();
+
+        vector<int> dist1(n , INT_MAX);
+        vector<int> dist2(n , INT_MAX);
+
         dist1[node1] = 0;
         dist2[node2] = 0;
-        
-        dfs(edges, node1, dist1, visited1);
-        dfs(edges, node2, dist2, visited2);
-        
-        
-        int minDistNode    = -1;
-        int minDistTillNow = INT_MAX;
-        for (int i = 0; i < n; i++) {
-            
-            int maxD = max(dist1[i], dist2[i]);
-            
-            if (minDistTillNow > maxD) {
-                minDistNode = i;
-                minDistTillNow = maxD;
+
+        vector<bool> visited1(n , false);
+        vector<bool> visited2(n , false);
+
+        dfs(node1 , visited1 , dist1 , edges);
+        dfs(node2 , visited2 , dist2 , edges);
+
+        int res = INT_MAX;
+        int t = -1;
+
+        for(int i=0; i<n; i++) {
+            if(dist1[i] != INT_MAX && dist2[i] != INT_MAX) {
+                int ans = max(dist1[i] , dist2[i]);
+
+                if(ans < res) {
+                    res = ans;
+                    t = i;
+                }
             }
         }
-
-        return minDistNode;
-        
+        return t;
     }
 };
