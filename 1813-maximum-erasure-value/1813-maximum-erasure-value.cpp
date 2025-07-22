@@ -3,22 +3,26 @@ public:
     int maximumUniqueSubarray(vector<int>& nums) {
         int n = nums.size();
 
-        int i = 0;
-        int sum = 0;
-
         int ans = INT_MIN;
 
-        set<int> st;
-        for(int j=0; j<n; j++) {         
-            while(st.find(nums[j]) != st.end()){
+        map<int , int> mpp;
+
+        int sum = 0;
+
+        int i = 0;
+        for(int j=0; j<n; j++) {
+            mpp[nums[j]]++;
+            sum += nums[j];
+
+            while(mpp[nums[j]] >= 2) {
+                mpp[nums[i]]--;
                 sum -= nums[i];
-                st.erase(nums[i]);
+
+                if(mpp[nums[i]] == 0) {
+                    mpp.erase(nums[i]);
+                }
                 i++;
             }
-
-            sum += nums[j];
-            st.insert(nums[j]);
-
             ans = max(ans , sum);
         }
         return ans;
