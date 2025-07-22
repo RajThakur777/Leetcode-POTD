@@ -1357,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
@@ -1446,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1706-min-cost-to-connect-all-points) |
@@ -1475,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1032-satisfiability-of-equality-equations) |
+| [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
 | [1325-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1535,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1560,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Merge Sort
 |  |
