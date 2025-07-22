@@ -1,38 +1,53 @@
 class Solution {
 public:
 
-    char solv(vector<int> &vis , unordered_map<char , vector<char>> &mpp , char ch) {
-        vis[ch - 'a'] = 1;
+    vector<int> parent;
+    vector<int> rank;
 
-        char mini = ch;
+    int find (int x) {
+        if (x == parent[x]) 
+            return x;
 
-        for(char &v : mpp[ch]){
-            if(!vis[v - 'a']) {
-                mini = min(mini , solv(vis , mpp , v));
-            }
-        }
-        return mini;
+        return parent[x] = find(parent[x]);
+    }
+
+    void Union (int x, int y) {
+        int x_parent = find(x);
+        int y_parent = find(y);
+
+        if (x_parent == y_parent) 
+            return;
+
+        parent[max(x_parent , y_parent)] = min(x_parent , y_parent);
     }
 
     string smallestEquivalentString(string s1, string s2, string baseStr) {
         int n = s1.size();
 
-        string ans;
+        parent.resize(26);
+        rank.resize(26 , 0);
 
-        unordered_map<char , vector<char>> mpp;
-        for(int i=0; i<n; i++){
-            mpp[s1[i]].push_back(s2[i]);
-            mpp[s2[i]].push_back(s1[i]);
+        for(int i=0; i<26; i++) {
+            parent[i] = i;
         }
 
-        for(int i=0; i<baseStr.size(); i++){
-            char ch = baseStr[i];
+        for(int i=0; i<n; i++) {
+            int parent_s1 = s1[i] - 'a';
+            int parent_s2 = s2[i] - 'a';
 
-            vector<int> vis(26 , 0);
+            if(parent_s1 != parent_s2) {
+                Union(parent_s1 , parent_s2);
+            }
+        }
 
-            char mini = solv(vis , mpp , ch);
+        string ans;
 
-            ans += mini;
+        for(int i=0; i<baseStr.size(); i++) {
+            int parent = find(baseStr[i] - 'a');
+
+            char ch = parent + 'a';
+
+            ans += ch;
         }
         return ans;
     }
