@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1138-grumpy-bookstore-owner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1138-grumpy-bookstore-owner) |
 | [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
@@ -1363,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
@@ -1422,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0869-similar-string-groups) |
 | [0922-possible-bipartition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
@@ -1458,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
