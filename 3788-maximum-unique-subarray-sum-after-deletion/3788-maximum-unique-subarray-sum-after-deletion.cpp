@@ -3,34 +3,28 @@ public:
     int maxSum(vector<int>& nums) {
         int n = nums.size();
 
-        map<int , int> mpp;
-        for(int i=0; i<n; i++){
-            mpp[nums[i]]++;
+        int maxi = *max_element(nums.begin() , nums.end());
+
+        if(maxi <= 0) {
+            return maxi;
         }
 
-        if(n == 1) return nums[0];
-
-        int pos = 0;
-        for(int i=0; i<n; i++){
-            if(nums[i] > 0) pos++;
-        }
-
-        if(pos == 0){
-            vector<int> temp = nums;
-            sort(temp.begin() , temp.end());
-
-            return temp[n-1];
-        }
-        int maxSum = INT_MIN;
-        int sum = 0;
-        
-        for(auto it : mpp){
-            if(it.first > 0 && it.second >= 1){
-                sum += it.first;
+        vector<int> arr;
+        for(int i=0; i<n; i++) {
+            if(nums[i] > 0) {
+                arr.push_back(nums[i]);
             }
-
-            maxSum = max(maxSum , sum);
         }
-        return maxSum;
+        
+        int ans = 0;
+        set<int> st;
+
+        for(int i=0; i<arr.size(); i++) {
+            if(st.find(arr[i]) == st.end()) {
+                ans += arr[i];
+                st.insert(arr[i]);
+            }
+        }
+        return ans;
     }
 };
