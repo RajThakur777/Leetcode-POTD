@@ -1,6 +1,6 @@
-<h2><a href="https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion">3788. Maximum Unique Subarray Sum After Deletion</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion">Maximum Unique Subarray Sum After Deletion</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>.</p>
 
-<p>You are allowed to delete any number of elements from <code>nums</code> without making it <strong>empty</strong>. After performing the deletions, select a subarray of <code>nums</code> such that:</p>
+<p>You are allowed to delete any number of elements from <code>nums</code> without making it <strong>empty</strong>. After performing the deletions, select a <span data-keyword="subarray-nonempty">subarray</span> of <code>nums</code> such that:</p>
 
 <ol>
 	<li>All elements in the subarray are <strong>unique</strong>.</li>
@@ -8,7 +8,7 @@
 </ol>
 
 <p>Return the <strong>maximum sum</strong> of such a subarray.</p>
-A <strong>subarray</strong> is a contiguous <b>non-empty</b> sequence of elements within an array.
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
