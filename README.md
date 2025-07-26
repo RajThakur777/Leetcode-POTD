@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0419-battleships-in-a-board) |
+| [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0733-flood-fill) |
@@ -1358,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0322-coin-change) |
+| [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0419-battleships-in-a-board) |
+| [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0684-redundant-connection) |
