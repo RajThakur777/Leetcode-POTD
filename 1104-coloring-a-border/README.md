@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/coloring-a-border/">1104. Coloring A Border</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> integer matrix <code>grid</code>, and three integers <code>row</code>, <code>col</code>, and <code>color</code>. Each value in the grid represents the color of the grid square at that location.</p>
+<h2><a href="https://leetcode.com/problems/coloring-a-border">Coloring A Border</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an <code>m x n</code> integer matrix <code>grid</code>, and three integers <code>row</code>, <code>col</code>, and <code>color</code>. Each value in the grid represents the color of the grid square at that location.</p>
 
 <p>Two squares are called <strong>adjacent</strong> if they are next to each other in any of the 4 directions.</p>
 
