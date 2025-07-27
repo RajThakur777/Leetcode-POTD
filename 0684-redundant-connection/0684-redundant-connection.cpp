@@ -1,35 +1,56 @@
-//DFS:
+//DSU:
 class Solution {
 public:
+    vector<int> parent;
+    vector<int> rank;
 
-    bool dfs(int node , int parent , vector<int> adj[] , vector<bool> &vis){
-        vis[node] = true;
+    int find(int x) {
+        if(x == parent[x]) return x;
 
-        for(auto it : adj[node]){
-            if(!vis[it]){
-                if(dfs(it , node , adj , vis)){
-                    return true;
-                }
-            }
-            else if(it != parent){
-                return true;
-            }
-        }
-        return false;
+        return parent[x] = find(parent[x]);
     }
 
-    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+    void Union(int x , int y) {
+        int parent_x = find(x);
+        int parent_y = find(y);
+
+        if(parent_x == parent_y) return;
+
+        if(rank[parent_x] > rank[parent_y]) {
+            parent[parent_y] = parent_x;
+        }
+        else if(rank[parent_x] < rank[parent_y]) {
+            parent[parent_x] = parent_y;
+        }
+        else {
+            parent[parent_x] = parent_y;
+            rank[parent_y]++;
+        }
+    }
+
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {   
         int n = edges.size();
 
-        vector<int> adj[n+1];
-        for(int i=0; i<n; i++){
-            adj[edges[i][0]].push_back(edges[i][1]);
-            adj[edges[i][1]].push_back(edges[i][0]);
+        parent.resize(n+1);
+        rank.resize(n+1);
 
-            vector<bool> vis(n+1 , false);
+        for(int i=1; i<=n; i++) {
+            parent[i] = i;
+            rank[i] = 0;
+        }
 
-            if(dfs(edges[i][0] , -1 , adj , vis)){
-                return edges[i];
+        for(int i=0; i<n; i++) {
+            int u = edges[i][0];
+            int v = edges[i][1];
+
+            int u1 = find(u);
+            int v1 = find(v);
+
+            if(u1 == v1) {
+                return {u , v};
+            }
+            else {
+                Union(u , v);
             }
         }
         return {};
