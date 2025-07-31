@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0800-letter-case-permutation) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
