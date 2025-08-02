@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Dynamic Programming
 |  |
@@ -1537,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Graph
 |  |
@@ -1586,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Topological Sort
 |  |
