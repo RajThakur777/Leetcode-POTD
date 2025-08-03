@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0394-decode-string) |
+| [0433-minimum-genetic-mutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0753-open-the-lock) |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0547-number-of-provinces) |
