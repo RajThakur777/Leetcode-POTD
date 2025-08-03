@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2249-count-the-hidden-sequences) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2478-longest-nice-subarray) |
@@ -1034,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
