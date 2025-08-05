@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1104-coloring-a-border) |
+| [1117-as-far-from-land-as-possible](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1117-as-far-from-land-as-possible) |
 | [1138-grumpy-bookstore-owner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1138-grumpy-bookstore-owner) |
 | [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1093,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
+| [1117-as-far-from-land-as-possible](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1117-as-far-from-land-as-possible) |
 | [1170-shortest-common-supersequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1170-shortest-common-supersequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1336,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1104-coloring-a-border) |
+| [1117-as-far-from-land-as-possible](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
@@ -1438,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1104-coloring-a-border) |
+| [1117-as-far-from-land-as-possible](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1275-validate-binary-tree-nodes) |
