@@ -1,29 +1,30 @@
 class Solution {
 public:
 
-    void helper(int idx , vector<int> &nums , vector<int> &res , vector<vector<int>> &ans){
-        if(idx == nums.size()){
-            ans.push_back(res);
+    void solve(int idx , vector<int> &nums , vector<int> &temp , vector<vector<int>> &res) {
+        if(idx >= nums.size()) {
+            res.push_back(temp);
             return;
         }
 
-        //pick
-        res.push_back(nums[idx]);
-        helper(idx+1 , nums , res , ans);
-        res.pop_back();
+        //take
+        temp.push_back(nums[idx]);
+        solve(idx+1 , nums , temp , res);
 
-        //not-pick
-        helper(idx+1 , nums , res , ans);
+        //not_take
+        temp.pop_back();
+        solve(idx+1 , nums , temp , res);
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
         int n = nums.size();
 
-        vector<vector<int>> ans;
-        vector<int> res;
+        vector<vector<int>> res;
 
-        helper(0 , nums , res , ans);
+        vector<int> temp;
 
-        return ans;
+        solve(0 , nums , temp , res);
+
+        return res;
     }
 };
