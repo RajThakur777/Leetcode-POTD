@@ -4,7 +4,7 @@ public:
     int n;
 
     bool dfs(int i , int j , vector<vector<char>> &board , string word , int idx) {
-        if(i < 0 || i >= m || j < 0 || j >= n || board[i][j] != word[idx]) return false;
+        if(i < 0 || i >= m || j < 0 || j >= n || board[i][j] != word[idx] || board[i][j] == '.') return false;
 
         if(idx == word.size() - 1) return true;
 
