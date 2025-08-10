@@ -1,54 +1,53 @@
+//Code-1:
 class Solution {
 public:
-    int dx[4] = {0 , 0 , 1 , -1};
-    int dy[4] = {1 , -1 , 0 , 0};
+    int m;
+    int n;
 
-    int helper(int r , int c , int cnt , vector<vector<int>> grid){
-        int m = grid.size();
-        int n = grid[0].size();
+    int dfs(int i , int j , int count , vector<vector<int>> &grid) {
+        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == -1) return 0;
 
-        if(r < 0 || r >= m || c < 0 || c >= n || grid[r][c] == -1) return 0;
-
-        if(grid[r][c] == 2){
-            return (cnt == -1);
+        if(grid[i][j] == 2) {
+            return (count == 0 ? 1 : 0);
         }
 
-        int temp = grid[r][c];
-        grid[r][c] = -1;
-        int ans = 0;
+        int temp = grid[i][j];
+        grid[i][j] = -1;
+        count--;
 
-        for(int i=0; i<4; i++){
-            int nr = r + dx[i];
-            int nc = c + dy[i];
+        int paths = 0;
+        paths += dfs(i-1 , j , count , grid);
+        paths += dfs(i+1 , j , count , grid);
+        paths += dfs(i , j-1 , count , grid);
+        paths += dfs(i , j+1 , count , grid);
 
-            ans += helper(nr , nc , cnt-1 , grid);
-        }
-        grid[r][c] = temp;
-        return ans;
+        grid[i][j] = temp;
+        count++;
+
+        return paths;
     }
 
     int uniquePathsIII(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
+        m = grid.size();
+        n = grid[0].size();
 
-        int r = 0;
-        int c = 0;
+        int start_x = 0;
+        int start_y = 0;
 
-        int cnt = 0;
+        int empty = 0;
 
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(grid[i][j] == 1){
-                    r = i;
-                    c = j;
+        for(int i=0; i<m; i++) {
+            for(int j=0; j<n; j++) {
+                if(grid[i][j] == 1) {
+                    start_x = i;
+                    start_y = j;
                 }
-                if(grid[i][j] == 0){
-                    cnt++;
+                else if(grid[i][j] == 0) {
+                    empty++;
                 }
             }
         }
-        int ans = helper(r , c , cnt , grid);
 
-        return ans;
+        return dfs(start_x , start_y , empty+1 , grid);
     }
 };
