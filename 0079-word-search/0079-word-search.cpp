@@ -1,48 +1,40 @@
 class Solution {
 public:
-    int dx[4] = {-1 , 0 , 1 , 0};
-    int dy[4] = {0 , 1 , 0 , -1};
+    int m;
+    int n;
 
-    bool helper(int r , int c , vector<vector<char>>& board , string word) {
-        if(word.size() == 0) return true;
+    bool dfs(int i , int j , vector<vector<char>> &board , string word , int idx) {
+        if(i < 0 || i >= m || j < 0 || j >= n || board[i][j] != word[idx]) return false;
 
-        int m = board.size();
-        int n = board[0].size();
-    
-        if(r < 0 || r >= m || c < 0 || c >= n || board[r][c] != word[0]) return false;
+        if(idx == word.size() - 1) return true;
 
-        char ch = board[r][c];
-        board[r][c] = '*';
-        string str = word.substr(1);
+        char ch = board[i][j];
 
-        bool ans = 0;
+        board[i][j] = '.';
 
-        for(int i=0; i<4; i++){
-            int nr = r + dx[i];
-            int nc = c + dy[i];
+        bool f1 = dfs(i-1 , j , board , word , idx + 1);
+        bool f2 = dfs(i+1 , j , board , word , idx + 1);
+        bool f3 = dfs(i , j-1 , board , word , idx + 1);
+        bool f4 = dfs(i , j+1 , board , word , idx + 1);
 
-            ans |= helper(nr , nc , board , str);
-        }
-        board[r][c] = ch;
+        board[i][j] = ch;
 
-        return ans;
+        return (f1 || f2 || f3 || f4);
     }
 
-    bool exist(vector<vector<char>>& board, string word) { 
-        int m = board.size();
-        int n = board[0].size();
+    bool exist(vector<vector<char>>& board, string word) {  
+        m = board.size();
+        n = board[0].size();
 
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(board[i][j] == word[0]){
-                    bool ans = helper(i , j , board , word);
-
-                    if(ans == true){
+        for(int i=0; i<m; i++) {
+            for(int j=0; j<n; j++) {
+                if(board[i][j] == word[0]) {
+                    if(dfs(i , j , board , word , 0)){
                         return true;
                     }
                 }
             }
-        } 
+        }
         return false;
     }
 };
