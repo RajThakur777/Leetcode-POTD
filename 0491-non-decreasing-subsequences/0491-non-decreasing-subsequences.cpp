@@ -1,31 +1,34 @@
 class Solution {
 public:
-
-    void recursion(vector<int> &nums , int idx , vector<int> &temp , set<vector<int>> &ans){
-        if(idx == nums.size()){
-            if(temp.size() >= 2){
-                ans.insert(temp);
+    void solve(int idx , vector<vector<int>> &ans , vector<int> &temp , vector<int> &nums) {
+        if(idx == nums.size()) {
+            if(temp.size() >= 2) {
+                if(find(ans.begin() , ans.end() , temp) == ans.end()) {
+                    ans.push_back(temp);
+                }
             }
             return;
         }
 
-        //pick
-        if(!temp.size() || nums[idx] >= temp.back()){
+        //take
+        if(temp.size() == 0 || temp.back() <= nums[idx]) {
             temp.push_back(nums[idx]);
-            recursion(nums , idx + 1 , temp , ans);
+            solve(idx+1 , ans , temp , nums);
             temp.pop_back();
         }
 
-        //not-pick
-        recursion(nums , idx + 1 , temp , ans);
+        //not_take
+        solve(idx+1 , ans , temp , nums);
     }
 
     vector<vector<int>> findSubsequences(vector<int>& nums) {
-        set<vector<int>> ans;
+        int n = nums.size();
+
+        vector<vector<int>> ans;
         vector<int> temp;
 
-        recursion(nums , 0 , temp , ans);
+        solve(0 , ans , temp , nums);
 
-        return vector(ans.begin() , ans.end());
+        return ans;
     }
 };
