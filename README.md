@@ -769,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0797-rabbits-in-forest](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1912,4 +1915,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
