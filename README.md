@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0486-predict-the-winner) |
+| [0679-24-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0867-new-21-game) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
+| [0679-24-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0813-all-paths-from-source-to-target) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1007-numbers-with-same-consecutive-differences) |
