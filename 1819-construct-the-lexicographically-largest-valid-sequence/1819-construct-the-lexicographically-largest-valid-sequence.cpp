@@ -1,56 +1,52 @@
 class Solution {
 public:
+    int sz;
 
-    bool solve(int i, int n, vector<int>& result, vector<bool>& used) {
-        if(i >= result.size()) {
-            return true; 
+    bool solve(int idx , int n , vector<int> &res , vector<bool> &used) {
+        if(idx >= sz) return true;
+
+        if(res[idx] != -1) {
+            return solve(idx+1 , n , res , used);
         }
 
-        if(result[i] != -1) {
-            return solve(i+1, n, result, used);
-        }
+        for(int num=n; num>=1; num--) {
+            if(used[num]) continue;
 
-        for(int num = n; num >= 1; num--) {
-            if(used[num]) {
-                continue;
-            }
-
-            //try
+            res[idx] = num;
             used[num] = true;
-            result[i] = num;
 
-            //EXPLORE
             if(num == 1) {
-                if(solve(i+1, n, result, used) == true) {
+                if(solve(idx+1 , n , res , used) == true) {
                     return true;
-                }
-            } else {
-                int j = result[i] + i;
+                } 
+            }
+            else {
+                int j = num + idx;
+                if(j < res.size() && res[j] == -1) {
+                    res[j] = num;
 
-                if(j < result.size() && result[j] == -1) {
-                    result[j] = num;
-                    if(solve(i+1, n, result, used) == true) {
+                    if(solve(idx+1 , n , res , used) == true) {
                         return true;
                     }
-                    result[j] = -1;
+                    res[j] = -1;
                 }
             }
 
-            //UNDO
+            res[idx] = -1;
             used[num] = false;
-            result[i] = -1;
         }
-
         return false;
     }
 
     vector<int> constructDistancedSequence(int n) {
-        vector<int> result(2*n-1, -1);
+        sz = 2 * n - 1;
 
-        vector<bool> used(n+1, false);
+        vector<int> res(sz , -1);
 
-        solve(0, n, result, used);
+        vector<bool> used(n+1 , false);
 
-        return result;
+        solve(0 , n , res , used);
+
+        return res;
     }
 };
