@@ -1,32 +1,31 @@
 class Solution {
 public:
-
-    void helper(int idx , vector<int> &candidates , vector<vector<int>> &ans , vector<int> &res , int target){
-        if(idx == candidates.size()) return;
-
-        if(target == 0){
-            ans.push_back(res);
+    void solve(int idx , vector<int> &candidates , int target , vector<vector<int>> &res ,  vector<int> &temp) {
+        if(target == 0) {
+            res.push_back(temp);
             return;
         }
 
+        if(idx == candidates.size()) return;
+
         //pick
-        if(candidates[idx] <= target){
-            res.push_back(candidates[idx]);
-            helper(idx , candidates , ans , res , target-candidates[idx]);
-            res.pop_back();
+        if(candidates[idx] <= target) {
+            temp.push_back(candidates[idx]);
+            solve(idx , candidates , target - candidates[idx] , res , temp);
+            temp.pop_back();
         }
 
-        //not-pick
-        helper(idx+1 , candidates , ans , res , target);
+        //not_pick:
+        solve(idx+1 , candidates , target , res , temp);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
+        vector<vector<int>> res;
 
-        vector<int> res;
+        vector<int> temp;
 
-        helper(0 , candidates , ans , res , target);
+        solve(0 , candidates , target , res , temp);
 
-        return ans;
+        return res;
     }
 };
