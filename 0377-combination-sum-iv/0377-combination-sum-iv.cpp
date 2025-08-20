@@ -1,61 +1,26 @@
-// //Recursion:
-// class Solution {
-// public:
-
-//     int recursion(vector<int> &nums , int target , int idx){
-//         if(idx == nums.size()){
-//             if(target == 0){
-//                 return 1;
-//             }
-//         }
-         
-//         int ans = 0;
-
-//         for(int j=0; j<nums.size(); j++){
-//             if(nums[j] <= target){
-//                 ans += recursion(nums , target-nums[j] , nums.size());
-//             }
-//         }
-//         return ans;
-//     }
-
-//     int combinationSum4(vector<int>& nums, int target) {
-//         return recursion(nums , target , 0);
-//     }
-// };
-
-
-
-
-
-
-
-//Memoization:
+//Recursion:
 class Solution {
 public:
-    vector<int> dp;
-    int recursion(vector<int> &nums , int target , int idx){
-        if(idx == nums.size()){
-            if(target == 0){
-                return 1;
-            }
-        }
-        
-        if(dp[target] != -1) return dp[target];
+    vector<vector<int>> dp;
 
-        int ans = 0;
+    int solve(int idx , vector<int> &nums , int target) {
+        if(target == 0) return 1;
 
-        for(int j=0; j<nums.size(); j++){
-            if(nums[j] <= target){
-                ans += recursion(nums , target-nums[j] , nums.size());
-            }
+        if(idx >= nums.size() || target <= 0) return 0;
+
+        if(dp[target][idx] != -1) {
+            return dp[target][idx];
         }
-        return dp[target] = ans;
+
+        int pick = solve(0 , nums , target - nums[idx]);
+        int not_pick = solve(idx+1 , nums , target);
+
+        return dp[target][idx] = pick + not_pick;
     }
 
     int combinationSum4(vector<int>& nums, int target) {
-        dp.resize(target + 1 , -1);
-
-        return recursion(nums , target , nums.size());
+        dp.assign(1001 , vector<int>(201 , -1));
+        
+        return solve(0 , nums , target);
     }
 };
