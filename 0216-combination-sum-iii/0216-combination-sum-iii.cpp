@@ -1,36 +1,33 @@
 class Solution {
 public:
-    vector<int> numbers = {1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9};
-
-    void helper(int idx , int k , int cnt , vector<vector<int>> &ans , vector<int> &res , int n){
-        if(n == 0){
-            if(cnt == k){
-                ans.push_back(res);
-            }
+    void solve(int idx , int k , int n , vector<vector<int>> &res , vector<int> &temp) {
+        if(k == 0 && n == 0) {
+            res.push_back(temp);
             return;
         }
 
-        if(idx == numbers.size()) return;
+        if(idx > 9) return;
 
-        //pick
-        if(numbers[idx] <= n){
-            res.push_back(numbers[idx]);
-            helper(idx+1 , k , cnt+1 , ans , res , n-numbers[idx]);
-            res.pop_back();
-        }
+        if(k <= 0 || n <= 0) return;
 
-        //not-pick
-        helper(idx+1 , k , cnt , ans , res , n);
+        //pick:
+        if(idx <= n) {
+            temp.push_back(idx);
+            solve(idx+1 , k-1 , n-idx , res , temp);
+            temp.pop_back();
+        }        
+
+        //not_pick
+        solve(idx+1 , k , n , res , temp);
     }
 
-    vector<vector<int>> combinationSum3(int k, int n) { 
-        vector<vector<int>> ans;
-        vector<int> res;
+    vector<vector<int>> combinationSum3(int k, int n) {
+        vector<vector<int>> res;
 
-        int cnt = 0;
+        vector<int> temp;
 
-        helper(0 , k , cnt , ans , res , n);
+        solve(1 , k , n , res , temp);
 
-        return ans;
+        return res;
     }
 };
