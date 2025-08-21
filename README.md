@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0826-soup-servings) |
