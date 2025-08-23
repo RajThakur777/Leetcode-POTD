@@ -70,8 +70,11 @@ public:
         while(i < m && j < n) {
             if(prev[i] == curr[j]) {
                 i++;
+                j++;
             }
-            j++;
+            else {
+                j++;
+            }
         }
         return i == m;
     }
