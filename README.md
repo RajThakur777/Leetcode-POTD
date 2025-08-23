@@ -1946,4 +1946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0867-new-21-game) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
