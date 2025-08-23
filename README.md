@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1117-as-far-from-land-as-possible) |
+| [1129-longest-string-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1138-grumpy-bookstore-owner) |
 | [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1129-longest-string-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1129-longest-string-chain) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1170-shortest-common-supersequence) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0985-bag-of-tokens) |
+| [1129-longest-string-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1880-largest-merge-of-two-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1880-largest-merge-of-two-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
+| [1129-longest-string-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1129-longest-string-chain) |
 | [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1184-car-pooling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1184-car-pooling) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1137,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1117-as-far-from-land-as-possible) |
+| [1129-longest-string-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1418-fair-distribution-of-cookies) |
