@@ -123,8 +123,8 @@ public:
         long long ans = INT_MIN;
         
         for(int i = 0; i < n; i++){
-            auto it = mp.upper_bound(nums[i]-i); //Find the element just greater than nums[i]-i;
-
+            auto it = mp.upper_bound(nums[i]-i);
+            
             long long cur_ans = nums[i];
 
             if(it != mp.begin()) {
@@ -141,7 +141,6 @@ public:
 
             ans = max(ans, cur_ans);
         }
-
         return ans;
     }
 };
