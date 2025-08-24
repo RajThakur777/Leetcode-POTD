@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons">1535. Build Array Where You Can Find The Maximum Exactly K Comparisons</a></h2><h3>Hard</h3><hr><p>You are given three integers <code>n</code>, <code>m</code> and <code>k</code>. Consider the following algorithm to find the maximum element of an array of positive integers:</p>
+<h2><a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons">Build Array Where You Can Find The Maximum Exactly K Comparisons</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given three integers <code>n</code>, <code>m</code> and <code>k</code>. Consider the following algorithm to find the maximum element of an array of positive integers:</p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/04/02/e.png" style="width: 424px; height: 372px;" />
 <p>You should build the array arr which has the following properties:</p>
 
