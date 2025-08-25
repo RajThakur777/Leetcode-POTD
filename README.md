@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1184-car-pooling) |
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0733-flood-fill) |
