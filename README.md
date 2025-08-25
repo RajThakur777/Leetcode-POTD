@@ -1967,6 +1967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0584-find-customer-referee) |
+| [0620-not-boring-movies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1153-product-sales-analysis-i) |
 | [1827-invalid-tweets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1908-recyclable-and-low-fat-products) |
