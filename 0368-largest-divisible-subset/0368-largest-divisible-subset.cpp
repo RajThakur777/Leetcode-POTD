@@ -1,43 +1,79 @@
+// //Recursion:
+// class Solution {
+// public:
+    
+//     void solve(int idx , vector<int> &nums , vector<int> &res , int prev , vector<int> &temp) {
+//         if(idx >= nums.size()) {
+//             if(temp.size() > res.size()) {
+//                 res = temp;
+//             }
+//             return;
+//         }
+
+//         //take
+//         if(prev == -1 || nums[idx] % prev == 0){
+//             temp.push_back(nums[idx]);
+//             solve(idx+1 , nums , res , nums[idx] , temp);
+//             temp.pop_back();
+//         }
+
+//         //not_take
+//         solve(idx+1 , nums , res , prev , temp);
+//     }
+
+//     vector<int> largestDivisibleSubset(vector<int>& nums) {   
+//         sort(nums.begin() , nums.end());
+
+//         int n = nums.size();
+
+//         vector<int> res;
+//         vector<int> temp;
+
+//         solve(0 , nums , res  ,-1 , temp);  
+
+//         return res;
+//     }
+// };
+
+
+
+
+//Bottom Up -> Tabulation:
 class Solution {
 public:
-    int n;
-    vector<int> sNums;
-    vector<vector<int>> dp;
-    int rec(int i, int prev) {
-        if(i >= n) return 0;
-        if(dp[i][prev+1] != -1) return dp[i][prev+1];
-        int take = 0;
-        if(prev == -1 || sNums[i] % sNums[prev] == 0)
-            take = 1 + rec(i+1, i);
-        int notTake = rec(i+1, prev);
-        int res = (take > notTake) ? take : notTake;
-        dp[i][prev+1] = res;
-        return res;
-    }
-    void reconstruct(int i, int prev, vector<int>& subset) {
-        if(i >= n) return;
-        int take = 0;
-        if(prev == -1 || sNums[i] % sNums[prev] == 0)
-            take = 1 + rec(i+1, i);
-        int notTake = rec(i+1, prev);
-        if(prev == -1 || sNums[i] % sNums[prev] == 0) {
-            if(take >= notTake) {
-                subset.push_back(sNums[i]);
-                reconstruct(i+1, i, subset);
-                return;
+    vector<int> largestDivisibleSubset(vector<int>& nums) {   
+        sort(nums.begin() , nums.end());
+
+        int n = nums.size();
+
+        vector<int> dp(n , 1);
+
+        vector<int> prev(n , -1);
+
+        int last = 0;
+        int maxi = 1;
+
+        for(int i=1; i<n; i++) {
+            for(int j=0; j<i; j++) {
+                if(nums[i] % nums[j] == 0) {
+                    if(dp[i] < dp[j] + 1) {
+                        dp[i] = dp[j] + 1;
+                        prev[i] = j;
+                    }
+
+                    if(maxi < dp[i]) {
+                        maxi = dp[i];
+                        last = i;
+                    }
+                }
             }
         }
-        reconstruct(i+1, prev, subset);
-    }
-    vector<int> largestDivisibleSubset(vector<int>& nums) {
-        if(nums.empty()) return {};
-        sNums = nums;
-        sort(sNums.begin(), sNums.end());
-        n = sNums.size();
-        dp.assign(n, vector<int>(n+1, -1));
-        rec(0, -1);
-        vector<int> ans;
-        reconstruct(0, -1, ans);
-        return ans;
+
+        vector<int> res;
+        while(last != -1) {
+            res.push_back(nums[last]);
+            last = prev[last];
+        }
+        return res;
     }
 };
