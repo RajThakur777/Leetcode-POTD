@@ -38,11 +38,11 @@ public:
         if(i > j) return true;
 
         if(dp[i][j] != -1) return dp[i][j];
-        
+
         if(s[i] == s[j]) {
-            return check(s , i+1 , j-1);
+            return dp[i][j] = check(s , i+1 , j-1);
         }
-        return false;
+        return dp[i][j] = false;
     }
 
     int countSubstrings(string s) {
