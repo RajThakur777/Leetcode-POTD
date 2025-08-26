@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0768-partition-labels) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
+| [0647-palindromic-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0806-domino-and-tromino-tiling) |
