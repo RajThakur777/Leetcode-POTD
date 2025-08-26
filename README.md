@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
@@ -1121,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0119-pascals-triangle-ii) |
