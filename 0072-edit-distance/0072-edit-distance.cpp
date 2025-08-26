@@ -88,16 +88,16 @@ public:
             return (m + n);
         }
 
-        if(dp[m-1][n-1] != -1) return dp[m-1][n-1];
+        if(dp[m][n] != -1) return dp[m][n];
 
         if(word1[m-1] == word2[n-1]) {
-            return dp[m-1][n-1] = solve(word1 , word2 , m-1 , n-1 , dp);
+            return dp[m][n] = solve(word1 , word2 , m-1 , n-1 , dp);
         }
         int op1 = 1 + solve(word1 , word2 , m , n-1 , dp);
         int op2 = 1 + solve(word1 , word2 , m-1 , n , dp);
         int op3 = 1 + solve(word1 , word2 , m-1 , n-1 , dp);
 
-        return dp[m-1][n-1] = min({op1 , op2 , op3});
+        return dp[m][n] = min({op1 , op2 , op3});
     }
 
     int minDistance(string word1, string word2) { 
