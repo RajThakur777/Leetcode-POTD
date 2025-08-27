@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1165,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1418-fair-distribution-of-cookies) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
