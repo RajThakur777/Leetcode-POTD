@@ -26,7 +26,7 @@
 //Recursion + Memoization:
 class Solution {
 public:
-    int dp[1001][1001];
+    int dp[501][501];
     
     int solve(string &s , int i , int j) {
         if(i >= j) return 0;
@@ -49,3 +49,15 @@ public:
         return solve(s , 0 , n-1);
     }
 };
+
+
+
+
+
+
+// //Tabulation:
+// class Solution {
+// public:
+//     int minInsertions(string s) {
+//     }
+// };
