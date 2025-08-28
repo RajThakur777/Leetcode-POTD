@@ -3,45 +3,32 @@ public:
     vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
 
-        for(int k=0; k<n; k++){
-            vector<int> ans;
-            int i = k;
-            int j = 0;
-            while(i < n && j < n){
-                ans.push_back(grid[i][j]);
-                i++;
-                j++;
-            }
+        unordered_map<int , vector<int>> mpp;
 
-            sort(ans.rbegin() , ans.rend());
-            int x = 0;
-            i = k;
-            j = 0;
-            while(i < n && j < n){
-                grid[i][j] = ans[x++];
-                i++;
-                j++;
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<n; j++) {
+                int key = i-j;
+
+                mpp[key].push_back(grid[i][j]);
             }
         }
 
-        for(int k=1; k<n; k++){
-            vector<int> ans;
-            int i = 0;
-            int j = k;
-            while(i < n && j < n){
-                ans.push_back(grid[i][j]);
-                i++;
-                j++;
-            }
+        for(auto &it : mpp) {
+            int key = it.first;
 
-            sort(ans.begin() , ans.end());
-            i = 0;
-            j = k;
-            int y = 0;
-            while(i < n && j < n){
-                grid[i][j] = ans[y++];
-                i++;
-                j++;
+            if(key >= 0) {
+                sort(begin(it.second), end(it.second));
+            }
+            else {
+                sort(rbegin(it.second), rend(it.second));
+            }
+        }
+
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<n; j++) {
+                int key = i-j;
+                grid[i][j] = mpp[key].back();
+                mpp[key].pop_back();
             }
         }
         return grid;
