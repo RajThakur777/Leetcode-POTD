@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-least-frequent-digit">3994. Find The Least Frequent Digit</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, find the digit that occurs <strong>least</strong> frequently in its decimal representation. If multiple digits have the same frequency, choose the <strong>smallest</strong> digit.</p>
+<h2><a href="https://leetcode.com/problems/find-the-least-frequent-digit">Find The Least Frequent Digit</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer <code>n</code>, find the digit that occurs <strong>least</strong> frequently in its decimal representation. If multiple digits have the same frequency, choose the <strong>smallest</strong> digit.</p>
 
 <p>Return the chosen digit as an integer.</p>
 The <strong>frequency</strong> of a digit <code>x</code> is the number of times it appears in the decimal representation of <code>n</code>.
