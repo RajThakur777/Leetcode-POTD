@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0958-sort-array-by-parity-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0971-shortest-bridge) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0983-validate-stack-sequences) |
@@ -1165,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0967-minimum-falling-path-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
@@ -1431,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0971-shortest-bridge) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1036-rotting-oranges) |
