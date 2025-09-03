@@ -26,32 +26,62 @@
 
 
 
-//Recursion+Memoization:
+// //Recursion+Memoization:
+// class Solution {
+// public:
+//     int m;
+//     int n;
+
+//     int dp[201][201];
+
+//     int solve(int i , int j , vector<vector<int>>& dungeon) {
+//         if(i >= m || j >= n) return INT_MAX;
+
+//         if(i == m-1 && j == n-1) return (dungeon[i][j] <= 0 ? abs(dungeon[i][j]) + 1 : 1);
+//         if(dp[i][j] != -1) return dp[i][j];
+
+//         int right = solve(i , j+1 , dungeon);
+//         int down = solve(i+1 , j , dungeon);
+
+//         return dp[i][j] = min(right , down) - dungeon[i][j] <= 0 ? 1 : min(right , down) - dungeon[i][j];
+//     }
+
+//     int calculateMinimumHP(vector<vector<int>>& dungeon) {
+//         m = dungeon.size();
+//         n = dungeon[0].size();
+
+//         memset(dp , -1 , sizeof(dp));
+
+//         return solve(0 , 0 , dungeon);
+//     }
+// };
+
+
+
+
+
+
+//Tabulation
 class Solution {
 public:
-    int m;
-    int n;
-
-    int dp[201][201];
-
-    int solve(int i , int j , vector<vector<int>>& dungeon) {
-        if(i >= m || j >= n) return INT_MAX;
-
-        if(i == m-1 && j == n-1) return (dungeon[i][j] <= 0 ? abs(dungeon[i][j]) + 1 : 1);
-        if(dp[i][j] != -1) return dp[i][j];
-
-        int right = solve(i , j+1 , dungeon);
-        int down = solve(i+1 , j , dungeon);
-
-        return dp[i][j] = min(right , down) - dungeon[i][j] <= 0 ? 1 : min(right , down) - dungeon[i][j];
-    }
-
     int calculateMinimumHP(vector<vector<int>>& dungeon) {
-        m = dungeon.size();
-        n = dungeon[0].size();
+        int m = dungeon.size();
+        int n = dungeon[0].size();
 
-        memset(dp , -1 , sizeof(dp));
+        vector<vector<int>> dp(m, vector<int>(n, 0));
 
-        return solve(0 , 0 , dungeon);
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                if (i == m - 1 && j == n - 1) {
+                    dp[i][j] = max(1, 1 - dungeon[i][j]);
+                } else {
+                    int right = (j + 1 >= n) ? 1e9 : dp[i][j + 1];
+                    int down  = (i + 1 >= m) ? 1e9 : dp[i + 1][j];
+                    int need = min(right, down) - dungeon[i][j];
+                    dp[i][j] = (need <= 0) ? 1 : need;
+                }
+            }
+        }
+        return dp[0][0];
     }
 };
