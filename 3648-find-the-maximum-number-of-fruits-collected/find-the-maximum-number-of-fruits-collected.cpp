@@ -1,66 +1,109 @@
-class Solution {
-    int n;
-    vector<vector<int>> t;
+// //Recursion:
+// class Solution {
+// public:
+//     int n;
 
+//     int child1(vector<vector<int>>& fruits) {
+//         int ans = 0;
+
+//         for(int i=0; i<fruits.size(); i++) {
+//             ans += fruits[i][i];
+//         }
+//         return ans;
+//     }
+
+//     int child2(vector<vector<int>>& fruits , int i , int j) {
+//         if(i >= n || j < 0 || j >= n) return 0;
+
+//         if(i == j || i > j) return 0;
+
+//         int ans1 = fruits[i][j] + child2(fruits , i+1 , j-1);
+//         int ans2 = fruits[i][j] + child2(fruits , i+1 , j);
+//         int ans3 = fruits[i][j] + child2(fruits , i+1 , j+1);
+
+//         return max({ans1 , ans2 , ans3});
+//     }
+
+//     int child3(vector<vector<int>>& fruits , int i , int j) {
+//         if(i < 0 || i >= n || j >= n) return 0;
+
+//         if(i == j || i < j) return 0;
+
+//         int ans1 = fruits[i][j] + child3(fruits , i-1 , j+1);
+//         int ans2 = fruits[i][j] + child3(fruits , i , j+1);
+//         int ans3 = fruits[i][j] + child3(fruits , i+1 , j+1);
+
+//         return max({ans1 , ans2 , ans3});
+//     }
+
+//     int maxCollectedFruits(vector<vector<int>>& fruits) {  
+//         n = fruits.size();    
+
+//         int first = child1(fruits);
+//         int second = child2(fruits , 0 , n-1);
+//         int third = child3(fruits , n-1 , 0);
+
+//         return first + second + third;
+//     }
+// };
+
+
+
+
+
+//Recursion+Memoization:
+class Solution {
 public:
-    int child1Collect(vector<vector<int>>& grid) {
+    int n;
+    int dp[1001][1001];
+
+    int child1(vector<vector<int>>& fruits) {
         int ans = 0;
-        for (int i = 0; i < n; i++) {
-            ans += grid[i][i];
-            grid[i][i] = 0;
-            t[i][i] = 0;
+
+        for(int i=0; i<fruits.size(); i++) {
+            ans += fruits[i][i];
+            dp[i][i] = 0;
         }
         return ans;
     }
 
-    int child2Collect(int i, int j, vector<vector<int>>& grid) {
-        if (i < 0 || i >= n || j < 0 || j >= n) {
-            return 0;
-        }
-        if (i == n - 1 && j == n - 1) {
-            return 0;
-        }
-        if (i == j || i > j) {
-            return 0;
-        }
-        if (t[i][j] != -1)
-            return t[i][j];
+    int child2(vector<vector<int>>& fruits , int i , int j) {
+        if(i >= n || j < 0 || j >= n) return 0;
 
-        int leftcorner = grid[i][j] + child2Collect(i + 1, j - 1, grid);
-        int middle = grid[i][j] + child2Collect(i + 1, j, grid);
-        int rightcorner = grid[i][j] + child2Collect(i + 1, j + 1, grid);
+        if(i == j || i > j) return 0;
 
-        return t[i][j] = max({middle, rightcorner, leftcorner});
+        if(dp[i][j] != -1) return dp[i][j];
+
+        int ans1 = fruits[i][j] + child2(fruits , i+1 , j-1);
+        int ans2 = fruits[i][j] + child2(fruits , i+1 , j);
+        int ans3 = fruits[i][j] + child2(fruits , i+1 , j+1);
+
+        return dp[i][j] = max({ans1 , ans2 , ans3});
     }
 
-    int child3Collect(int i, int j, vector<vector<int>>& grid) {
-        if (i < 0 || i >= n || j < 0 || j >= n) {
-            return 0;
-        }
-        if (i == n - 1 && j == n - 1) {
-            return 0;
-        }
-        if (i == j || j > i) {
-            return 0;
-        }
-        if (t[i][j] != -1)
-            return t[i][j];
+    int child3(vector<vector<int>>& fruits , int i , int j) {
+        if(i < 0 || i >= n || j >= n) return 0;
 
-        int topcorner   = grid[i][j] + child3Collect(i - 1, j + 1, grid);
-        int right       = grid[i][j] + child3Collect(i, j + 1, grid);
-        int rightcorner = grid[i][j] + child3Collect(i + 1, j + 1, grid);
+        if(i == j || i < j) return 0;
 
-        return t[i][j] = max({right, rightcorner, topcorner});
+        if(dp[i][j] != -1) return dp[i][j];
+
+        int ans1 = fruits[i][j] + child3(fruits , i-1 , j+1);
+        int ans2 = fruits[i][j] + child3(fruits , i , j+1);
+        int ans3 = fruits[i][j] + child3(fruits , i+1 , j+1);
+
+        return dp[i][j] = max({ans1 , ans2 , ans3});
     }
 
-    int maxCollectedFruits(vector<vector<int>>& grid) {
-        n = grid.size();
-        t.resize(n, vector<int>(n, -1));
+    int maxCollectedFruits(vector<vector<int>>& fruits) {  
+        n = fruits.size(); 
 
-        int firstChildScore = child1Collect(grid);
-        int secondChildScore = child2Collect(0, n - 1, grid);
-        int thirdChildScore  = child3Collect(n - 1, 0, grid);
+        memset(dp , -1 , sizeof(dp));   
 
-        return (firstChildScore + secondChildScore + thirdChildScore);
-    }    
+        int first = child1(fruits);
+        int second = child2(fruits , 0 , n-1);
+        int third = child3(fruits , n-1 , 0);
+
+        return first + second + third;
+    }
 };
