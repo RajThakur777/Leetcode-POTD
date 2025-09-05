@@ -976,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-number-of-even-and-odd-bits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1497,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -1899,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2442-number-of-arithmetic-triplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
