@@ -1,15 +1,56 @@
+// //Recursion:
+// class Solution {
+// public:
+
+//     bool solve(int idx , vector<int> &nums) {
+//         if(idx >= nums.size()) return false;
+
+//         if(idx == nums.size() - 1) return true;
+
+//         if(nums[idx] == 0) return false;
+
+//         for(int i=1; i<=nums[idx]; i++) {
+//             if(solve(idx+i , nums) == true) {
+//                 return true;
+//             }
+//         }
+//         return false;
+//     }
+
+//     bool canJump(vector<int>& nums) {
+//         return solve(0 , nums);
+//     }
+// };
+
+
+
+
+
+//Recursion+Memoization:
 class Solution {
 public:
-    bool canJump(vector<int>& nums) {
-        int n = nums.size();
+    int dp[10001];
 
-        int lastPos = n-1;
+    bool solve(int idx , vector<int> &nums) {
+        if(idx >= nums.size()) return false;
 
-        for(int i=n-2; i>=0; i--){
-            if(i + nums[i] >= lastPos){
-                lastPos = i;
+        if(idx == nums.size() - 1) return true;
+
+        if(nums[idx] == 0) return false;
+
+        if(dp[idx] != -1) return dp[idx];
+
+        for(int i=1; i<=nums[idx]; i++) {
+            if(solve(idx+i , nums) == true) {
+                return dp[idx] = true;
             }
         }
-        return lastPos == 0;
+        return dp[idx] = false;
+    }
+
+    bool canJump(vector<int>& nums) {
+        memset(dp , -1 , sizeof(dp));
+
+        return solve(0 , nums);
     }
 };
