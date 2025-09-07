@@ -1,57 +1,50 @@
 // //Recursion:
 // class Solution {
 // public:
+//     long long n;
 
-//     long long helper(int i , vector<vector<int>>& questions){
-//         if(i >= questions.size()) return 0;
+//     long long solve(int idx , vector<vector<int>>& questions) {
+//         if(idx >= n) return 0;
 
-//         //pick
-//         long long pick = questions[i][0] + helper(i + questions[i][1] + 1 , questions);
+//         long long pick = questions[idx][0] + solve(idx+questions[idx][1]+1 , questions);
 
-//         //not-pick
-//         long long not_pick = helper(i + 1 , questions);
+//         long long not_pick = solve(idx+1 , questions);
 
 //         return max(pick , not_pick);
 //     }
 
 //     long long mostPoints(vector<vector<int>>& questions) {
-//         int n = questions.size();
+//         n = questions.size();
 
-//         long long ans = helper(0 , questions);
-
-//         return ans;
+//         return solve(0 , questions);
 //     }
 // };
 
 
 
 
-
-//Memoization:
+//Recursion+Memoization:
 class Solution {
 public:
+    long long n;
 
-    long long helper(int i , vector<vector<int>>& questions , vector<long long> &dp){
-        if(i >= questions.size()) return 0;
+    long long solve(int idx , vector<vector<int>>& questions , vector<long long> &dp) {
+        if(idx >= n) return 0;
 
-        if(dp[i] != -1) return dp[i];
+        if(dp[idx] != -1) return dp[idx];
 
-        //pick
-        long long pick = questions[i][0] + helper(i + questions[i][1] + 1 , questions , dp);
+        long long pick = questions[idx][0] + solve(idx+questions[idx][1]+1 , questions , dp);
 
-        //not-pick
-        long long not_pick = helper(i + 1 , questions , dp);
+        long long not_pick = solve(idx+1 , questions , dp);
 
-        return dp[i] = max(pick , not_pick);
+        return dp[idx] = max(pick , not_pick);
     }
 
     long long mostPoints(vector<vector<int>>& questions) {
-        int n = questions.size();
+        n = questions.size();
 
         vector<long long> dp(n , -1);
 
-        long long ans = helper(0 , questions , dp);
-
-        return ans;
+        return solve(0 , questions , dp);
     }
 };
