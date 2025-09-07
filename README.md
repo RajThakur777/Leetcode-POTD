@@ -1217,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2562-count-ways-to-build-good-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2562-count-ways-to-build-good-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
