@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2442-number-of-arithmetic-triplets) |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2562-count-ways-to-build-good-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -1251,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
@@ -1495,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -1610,6 +1614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -1679,6 +1684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2206-detonate-the-maximum-bombs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1759,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1786,6 +1793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Tree
 |  |
 | ------- |
