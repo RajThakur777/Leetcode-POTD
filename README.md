@@ -809,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0372-super-pow) |
 | [0445-add-two-numbers-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0445-add-two-numbers-ii) |
@@ -1167,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0377-combination-sum-iv) |
