@@ -1,74 +1,68 @@
-// //Recrusion:
+// //Recursion:
 // class Solution {
-// public:
+// public: 
+//     int n;
 
-//     bool helper(int idx , vector<int> &nums , int x){
-//         if(x == 0) return true;
+//     bool solve(int idx , vector<int>& nums , int s) {
+//         if(s == 0) return true;
 
-//         if(idx >= nums.size()) return false;
+//         if(idx >= n) return false;
 
-//         bool take = false;
-//         if(nums[idx] <= x){
-//             take = helper(idx+1 , nums , x-nums[idx]);
-//         }
+//         if(s < 0) return false;
 
-//         bool not_take = helper(idx+1 , nums , x);
+//         bool pick = solve(idx+1 , nums , s-nums[idx]);
+//         bool not_pick = solve(idx+1 , nums , s);
 
-//         return take || not_take;
+//         return pick || not_pick;
 //     }
 
-//     bool canPartition(vector<int>& nums) { 
-//         int n = nums.size();
+//     bool canPartition(vector<int>& nums) {
+//         n = nums.size();
 
-//         int S = accumulate(nums.begin() , nums.end() , 0);
+//         int sum = 0;
+//         for(int i=0; i<n; i++) {
+//             sum += nums[i];
+//         }
 
-//         if(S % 2 != 0) return false;
+//         if(sum % 2 != 0) return false;
 
-//         int x = (S) / 2;
-
-//         return helper(0 , nums , x); 
+//         return solve(0 , nums , (sum) / 2);
 //     }
 // };
 
 
 
 
-
-//Memoization:
+//Recursion+Memoization:
 class Solution {
-public:
-    int t[201][20001];
+public: 
+    int n;
 
-    bool helper(int idx , vector<int> &nums , int x){
-        if(x == 0) return true;
+    bool solve(int idx , vector<int>& nums , int s , vector<vector<int>> &dp) {
+        if(s == 0) return true;
 
-        if(idx >= nums.size()) return false;
+        if(idx >= n || s < 0) return false;
 
-        if(t[idx][x] != -1){
-            return t[idx][x];
-        }
+        if(dp[idx][s] != -1) return dp[idx][s];
 
-        bool take = false;
-        if(nums[idx] <= x){
-            take = helper(idx+1 , nums , x-nums[idx]);
-        }
+        bool pick = solve(idx+1 , nums , s-nums[idx] , dp);
+        bool not_pick = solve(idx+1 , nums , s , dp);
 
-        bool not_take = helper(idx+1 , nums , x);
-
-        return t[idx][x] = take || not_take;
+        return dp[idx][s] = pick || not_pick;
     }
 
-    bool canPartition(vector<int>& nums) { 
-        int n = nums.size();
+    bool canPartition(vector<int>& nums) {
+        n = nums.size();
 
-        int S = accumulate(nums.begin() , nums.end() , 0);
+        int sum = 0;
+        for(int i=0; i<n; i++) {
+            sum += nums[i];
+        }
 
-        if(S % 2 != 0) return false;
+        vector<vector<int>> dp(n+1 , vector<int>(sum , -1));
 
-        int x = (S) / 2;
+        if(sum % 2 != 0) return false;
 
-        memset(t , -1 , sizeof(t));
-
-        return helper(0 , nums , x); 
+        return solve(0 , nums , (sum) / 2 , dp);
     }
 };
