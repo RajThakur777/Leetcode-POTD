@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1835-decode-xored-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1835-decode-xored-permutation) |
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1336,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1880-largest-merge-of-two-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
