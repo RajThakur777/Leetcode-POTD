@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule">1457. Minimum Difficulty of a Job Schedule</a></h2><h3>Hard</h3><hr><p>You want to schedule a list of jobs in <code>d</code> days. Jobs are dependent (i.e To work on the <code>i<sup>th</sup></code> job, you have to finish all the jobs <code>j</code> where <code>0 &lt;= j &lt; i</code>).</p>
+<h2><a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule">Minimum Difficulty of a Job Schedule</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You want to schedule a list of jobs in <code>d</code> days. Jobs are dependent (i.e To work on the <code>i<sup>th</sup></code> job, you have to finish all the jobs <code>j</code> where <code>0 &lt;= j &lt; i</code>).</p>
 
 <p>You have to finish <strong>at least</strong> one task every day. The difficulty of a job schedule is the sum of difficulties of each day of the <code>d</code> days. The difficulty of a day is the maximum difficulty of a job done on that day.</p>
 
