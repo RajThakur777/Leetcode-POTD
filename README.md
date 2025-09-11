@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1380-number-of-closed-islands) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1295,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1331-path-with-maximum-gold) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1418-fair-distribution-of-cookies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
