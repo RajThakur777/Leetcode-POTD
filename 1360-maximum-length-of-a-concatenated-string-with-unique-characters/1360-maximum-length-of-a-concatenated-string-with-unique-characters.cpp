@@ -3,7 +3,7 @@ class Solution {
 public:
     int n;
 
-    int solve(int idx , vector<string> &arr , set<char> st) {
+    int solve(int idx , vector<string> &arr , set<char> &st) {
         if(idx >= arr.size()) {
             return st.size();
         }
