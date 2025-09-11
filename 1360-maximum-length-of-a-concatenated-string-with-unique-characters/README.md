@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters">1360. Maximum Length of a Concatenated String with Unique Characters</a></h2><h3>Medium</h3><hr><p>You are given an array of strings <code>arr</code>. A string <code>s</code> is formed by the <strong>concatenation</strong> of a <strong>subsequence</strong> of <code>arr</code> that has <strong>unique characters</strong>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters">Maximum Length of a Concatenated String with Unique Characters</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array of strings <code>arr</code>. A string <code>s</code> is formed by the <strong>concatenation</strong> of a <strong>subsequence</strong> of <code>arr</code> that has <strong>unique characters</strong>.</p>
 
 <p>Return <em>the <strong>maximum</strong> possible length</em> of <code>s</code>.</p>
 
