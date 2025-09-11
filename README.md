@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1213,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1517-restore-the-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1517-restore-the-array) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1448-maximum-69-number) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1502-construct-k-palindrome-strings) |
