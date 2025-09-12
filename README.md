@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0387-first-unique-character-in-a-string) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0342-power-of-four) |
@@ -1184,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1884,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
