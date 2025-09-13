@@ -1,39 +1,64 @@
+// class Solution {
+// public:
+
+//     bool isVowel(char ch){
+//         if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
+//             return true;
+//         }
+//         return false;
+//     }
+    
+//     int maxFreqSum(string s) {
+//         int n = s.size();
+
+//         map<char , int> mpp1;
+//         for(int i=0; i<n; i++){
+//             if(isVowel(s[i])){
+//                 mpp1[s[i]]++;
+//             }
+//         }
+
+//          map<char , int> mpp2;
+//         for(int i=0; i<n; i++){
+//             if(!isVowel(s[i])){
+//                 mpp2[s[i]]++;
+//             }
+//         }
+//         int maxi1 = 0;
+//         int maxi2 = 0;
+
+//         for(auto it : mpp1){
+//             maxi1 = max(maxi1 , it.second);
+//         }
+
+//         for(auto it : mpp2){
+//             maxi2 = max(maxi2 , it.second);
+//         }
+//         return maxi1 + maxi2;
+//     }
+// };
+
+
+
+
 class Solution {
 public:
-
-    bool isVowel(char ch){
-        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
-            return true;
-        }
-        return false;
+    bool is_vowel(char c) {
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
-    
     int maxFreqSum(string s) {
-        int n = s.size();
-
-        map<char , int> mpp1;
-        for(int i=0; i<n; i++){
-            if(isVowel(s[i])){
-                mpp1[s[i]]++;
+        unordered_map<char, int> mp;
+        for (auto ch : s) {
+            mp[ch]++;
+        }
+        int vowel = 0, consonant = 0;
+        for (char ch = 'a'; ch <= 'z'; ch++) {
+            if (is_vowel(ch)) {
+                vowel = max(vowel, mp[ch]);
+            } else {
+                consonant = max(consonant, mp[ch]);
             }
         }
-
-         map<char , int> mpp2;
-        for(int i=0; i<n; i++){
-            if(!isVowel(s[i])){
-                mpp2[s[i]]++;
-            }
-        }
-        int maxi1 = 0;
-        int maxi2 = 0;
-
-        for(auto it : mpp1){
-            maxi1 = max(maxi1 , it.second);
-        }
-
-        for(auto it : mpp2){
-            maxi2 = max(maxi2 , it.second);
-        }
-        return maxi1 + maxi2;
+        return vowel + consonant;
     }
 };
