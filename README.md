@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1006-vowel-spellchecker](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1022-unique-paths-iii) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1006-vowel-spellchecker](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1006-vowel-spellchecker) |
 | [1026-string-without-aaa-or-bbb](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1026-string-without-aaa-or-bbb) |
 | [1032-satisfiability-of-equality-equations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1058-lexicographically-smallest-equivalent-string) |
