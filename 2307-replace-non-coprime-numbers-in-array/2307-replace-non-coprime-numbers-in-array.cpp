@@ -1,35 +1,37 @@
 class Solution {
 public:
-    int GCD(int a, int b) {
-        while (b != 0) {
-            int temp = b;
-            b = a % b;
-            a = temp;
-        }
-        return a;
-    }
-
     vector<int> replaceNonCoprimes(vector<int>& nums) {
+        int n = nums.size();
+
         stack<int> st;
 
-        for(int num: nums) {
-            int val = num;
+        for(int i=0; i<n; i++) {
+            int num = nums[i];
+
             while(!st.empty()) {
-                int gcd = GCD(st.top(), val);
+                int GCD = __gcd(num , st.top());
 
-                if(gcd > 1) {
-                    val = int((1LL * val * st.top()) / gcd);
+                if(GCD > 1) {
+                    num = int((1LL * num * st.top()) / GCD);
                     st.pop();
-                } else break;
+                }
+                else {
+                    break;
+                }
             }
-            st.push(val);
+            st.push(num);
         }
 
-        vector<int> ans(st.size());
-        for (int i = st.size() - 1; i >= 0; i--) {
-            ans[i] = st.top();
+        vector<int> ans;
+
+        while(!st.empty()) {
+            int num = st.top();
             st.pop();
+            ans.push_back(num);
         }
+
+        reverse(ans.begin() , ans.end());
+
         return ans;
     }
 };
