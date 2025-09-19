@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1184-car-pooling) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1290-make-array-strictly-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1293-three-consecutive-odds) |
@@ -1250,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1170-shortest-common-supersequence) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1250-longest-common-subsequence) |
 | [1290-make-array-strictly-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -1543,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1396-count-servers-that-communicate) |
