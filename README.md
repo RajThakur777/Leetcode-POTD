@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -1192,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3827-implement-router) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Dynamic Programming
@@ -1511,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -1992,6 +1996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3827-implement-router) |
 ## Enumeration
 |  |
 | ------- |
@@ -2024,6 +2029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3827-implement-router) |
 ## Bucket Sort
 |  |
 | ------- |
