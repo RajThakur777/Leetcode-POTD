@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array">4009. Bitwise OR of Even Numbers in an Array</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array">Bitwise OR of Even Numbers in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Return the bitwise <strong>OR</strong> of all <strong>even</strong> numbers in the array.</p>
 
