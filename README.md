@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1559-cherry-pickup-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1559-cherry-pickup-ii) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1267,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1517-restore-the-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1517-restore-the-array) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1559-cherry-pickup-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-count-all-possible-routes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1680-count-all-possible-routes) |
@@ -1558,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1559-cherry-pickup-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1559-cherry-pickup-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1677-matrix-diagonal-sum) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
