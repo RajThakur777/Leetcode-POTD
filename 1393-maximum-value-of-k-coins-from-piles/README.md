@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-value-of-k-coins-from-piles">1393. Maximum Value of K Coins From Piles</a></h2><h3>Hard</h3><hr><p>There are <code>n</code> <strong>piles</strong> of coins on a table. Each pile consists of a <strong>positive number</strong> of coins of assorted denominations.</p>
+<h2><a href="https://leetcode.com/problems/maximum-value-of-k-coins-from-piles">Maximum Value of K Coins From Piles</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>There are <code>n</code> <strong>piles</strong> of coins on a table. Each pile consists of a <strong>positive number</strong> of coins of assorted denominations.</p>
 
 <p>In one move, you can choose any coin on <strong>top</strong> of any pile, remove it, and add it to your wallet.</p>
 
