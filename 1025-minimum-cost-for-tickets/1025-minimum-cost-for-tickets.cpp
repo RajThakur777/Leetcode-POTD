@@ -1,86 +1,69 @@
 // //Recursion:
 // class Solution {
 // public:
+//     int n;
 
-//     int helper(int idx , vector<int> &days , vector<int> &costs){
-//         int n = days.size();
+//     int solve(int day , set<int> &st , vector<int> &costs , vector<int> &days) {
+//         if(day > days[n-1]) return 0;
 
-//         if(idx >= days.size()) return 0;
-
-//         //take - 1
-//         int cost1 = costs[0] + helper(idx+1 , days , costs);
-
-//         //take - 7
-//         int max_days = days[idx] + 7;
-//         int j = idx;
-//         while(j < n && days[j] < max_days){
-//             j++;
+//         if(st.find(day) == st.end()) {
+//             return solve(day+1 , st , costs , days);
 //         }
 
-//         int cost7 = costs[1] + helper(j , days , costs);
+//         int one = costs[0] + solve(day+1 , st , costs , days);
+//         int seven = costs[1] + solve(day+7 , st , costs , days);
+//         int thirty = costs[2] + solve(day+30 , st , costs , days);
 
-//         //take - 30
-//         int maxi_days = days[idx] + 30;
-//         int k = idx;
-//         while(k < n && days[k] < maxi_days){
-//             k++;
-//         }
-
-//         int cost30 = costs[2] + helper(k , days , costs);
-
-//         return min(cost1 , min(cost7 , cost30));
+//         return min({one , seven , thirty});
 //     }
 
-//     int mincostTickets(vector<int>& days, vector<int>& costs) {
-//         int n = days.size();
+//     int mincostTickets(vector<int>& days, vector<int>& costs) { 
+//         n = days.size();
 
-//         return helper(0 , days , costs);
+//         set<int> st;
+//         for(int i=0; i<n; i++) {
+//             st.insert(days[i]);
+//         }
+
+//         return solve(1 , st , costs , days);     
 //     }
 // };
 
 
 
 
-//Memoization:
+//Recursion+Memoization:
 class Solution {
 public:
+    int n;
+    int dp[366];
 
-    int helper(int idx , vector<int> &days , vector<int> &costs , vector<int> &dp){
-        int n = days.size();
+    int solve(int day , set<int> &st , vector<int> &costs , vector<int> &days) {
+        if(day > days[n-1]) return 0;
 
-        if(idx >= days.size()) return 0;
+        if(dp[day] != -1) return dp[day];
 
-        if(dp[idx] != -1) return dp[idx];
-
-        //take - 1
-        int cost1 = costs[0] + helper(idx+1 , days , costs , dp);
-
-        //take - 7
-        int max_days = days[idx] + 7;
-        int j = idx;
-        while(j < n && days[j] < max_days){
-            j++;
+        if(st.find(day) == st.end()) {
+            return solve(day+1 , st , costs , days);
         }
 
-        int cost7 = costs[1] + helper(j , days , costs , dp);
+        int one = costs[0] + solve(day+1 , st , costs , days);
+        int seven = costs[1] + solve(day+7 , st , costs , days);
+        int thirty = costs[2] + solve(day+30 , st , costs , days);
 
-        //take - 30
-        int maxi_days = days[idx] + 30;
-        int k = idx;
-        while(k < n && days[k] < maxi_days){
-            k++;
-        }
-
-        int cost30 = costs[2] + helper(k , days , costs , dp);
-
-        return dp[idx] = min(cost1 , min(cost7 , cost30));
+        return dp[day] = min({one , seven , thirty});
     }
 
-    int mincostTickets(vector<int>& days, vector<int>& costs) {
-        int n = days.size();
+    int mincostTickets(vector<int>& days, vector<int>& costs) { 
+        n = days.size();
 
-        vector<int> dp(n , -1);
+        memset(dp , -1 , sizeof(dp));
 
-        return helper(0 , days , costs , dp);
+        set<int> st;
+        for(int i=0; i<n; i++) {
+            st.insert(days[i]);
+        }
+
+        return solve(1 , st , costs , days);     
     }
 };
