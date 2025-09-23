@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
@@ -1242,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0646-maximum-length-of-pair-chain) |
