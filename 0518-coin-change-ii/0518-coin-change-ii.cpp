@@ -1,27 +1,32 @@
 // //Recursion:
 // class Solution {
 // public:
-//     #define ll long long 
+//     int n;
 
-//     ll solve(int idx , vector<int> &coins , int amount) {
-//         if(idx >= coins.size()) {
-//             return (amount == 0);
-//         }
-
+//     int solve(int idx , vector<int> &coins , int amount) {
 //         if(amount == 0) return 1;
 
-//         ll pick = 0;
-//         if(coins[idx] <= amount) {
-//             pick = solve(idx , coins , (ll)amount-coins[idx]);
+//         if(idx < 0 || amount < 0) return 0;
+
+//         if(idx == 0) {
+//             return (amount % coins[idx] == 0);
 //         }
 
-//         ll not_pick = solve(idx+1 , coins , amount);
+//         int not_pick = solve(idx-1 , coins , amount);
+
+//         int pick = 0;
+
+//         if(coins[idx] <= amount) {
+//             pick = solve(idx , coins , amount-coins[idx]);
+//         }
 
 //         return pick + not_pick;
 //     }
 
-//     int change(int amount, vector<int>& coins) { 
-//         return solve(0 , coins , amount);  
+//     int change(int amount, vector<int>& coins) {
+//         n = coins.size();
+
+//         return solve(n-1 , coins , amount);
 //     }
 // };
 
@@ -31,32 +36,35 @@
 //Recursion+Memoization:
 class Solution {
 public:
-    #define ll long long 
+    int n;
 
-    ll solve(int idx , vector<int> &coins , int amount , vector<vector<int>> &dp) {
-        if(idx >= coins.size()) {
-            return (amount == 0);
-        }
-
+    int solve(int idx , vector<int> &coins , int amount , vector<vector<int>> &dp) {
         if(amount == 0) return 1;
 
         if(dp[idx][amount] != -1) return dp[idx][amount];
 
-        ll pick = 0;
-        if(coins[idx] <= amount) {
-            pick = solve(idx , coins , (ll)amount-coins[idx] , dp);
+        if(idx < 0 || amount < 0) return 0;
+
+        if(idx == 0) {
+            return (amount % coins[idx] == 0);
         }
 
-        ll not_pick = solve(idx+1 , coins , amount , dp);
+        int not_pick = solve(idx-1 , coins , amount , dp);
+
+        int pick = 0;
+
+        if(coins[idx] <= amount) {
+            pick = solve(idx , coins , amount-coins[idx] , dp);
+        }
 
         return dp[idx][amount] = pick + not_pick;
     }
 
-    int change(int amount, vector<int>& coins) { 
-        int n = coins.size();
+    int change(int amount, vector<int>& coins) {
+        n = coins.size();
 
         vector<vector<int>> dp(n+1 , vector<int>(amount+1 , -1));
 
-        return solve(0 , coins , amount , dp);  
+        return solve(n-1 , coins , amount , dp);
     }
 };
