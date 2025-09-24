@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0229-majority-element-ii) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0387-first-unique-character-in-a-string) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0264-ugly-number-ii) |
