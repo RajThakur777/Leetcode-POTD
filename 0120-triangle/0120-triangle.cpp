@@ -3,17 +3,15 @@
 // public:
 //     int n;
 
-//     int solve(int i , int j , vector<vector<int>>& triangle) {
+//     int solve(int i , int j , vector<vector<int>> &triangle) {
 //         if(i == n-1) {
-//             return triangle[n-1][j];
+//             return triangle[i][j];
 //         }
 
-//         if(i >= n || j >= n) return INT_MAX;
-
 //         int down = triangle[i][j] + solve(i+1 , j , triangle);
-//         int diag = triangle[i][j] + solve(i+1 , j+1 , triangle);
+//         int diagonal = triangle[i][j] + solve(i+1 , j+1 , triangle);
 
-//         return min(down , diag);
+//         return min({down , diagonal});
 //     }
 
 //     int minimumTotal(vector<vector<int>>& triangle) { 
@@ -26,15 +24,16 @@
 
 
 
+
 // //Recursion+Memoization:
 // class Solution {
 // public:
 //     int n;
 //     int dp[201][201];
 
-//     int solve(int i , int j , vector<vector<int>>& triangle) {
+//     int solve(int i , int j , vector<vector<int>> &triangle) {
 //         if(i == n-1) {
-//             return triangle[n-1][j];
+//             return triangle[i][j];
 //         }
 
 //         if(dp[i][j] != -1) return dp[i][j];
@@ -42,9 +41,9 @@
 //         if(i >= n || j >= n) return INT_MAX;
 
 //         int down = triangle[i][j] + solve(i+1 , j , triangle);
-//         int diag = triangle[i][j] + solve(i+1 , j+1 , triangle);
+//         int diagonal = triangle[i][j] + solve(i+1 , j+1 , triangle);
 
-//         return dp[i][j] = min(down , diag);
+//         return dp[i][j] = min({down , diagonal});
 //     }
 
 //     int minimumTotal(vector<vector<int>>& triangle) { 
