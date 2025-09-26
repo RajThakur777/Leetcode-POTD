@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0679-24-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0679-24-game) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0234-palindrome-linked-list) |
+| [0611-valid-triangle-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0768-partition-labels) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1170,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -1385,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0778-reorganize-string) |
