@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0816-design-hashset) |
+| [0830-largest-triangle-area](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0830-largest-triangle-area) |
 | [0842-card-flipping-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0842-card-flipping-game) |
 | [0859-design-circular-deque](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0860-design-circular-queue) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
@@ -2079,6 +2081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2206-detonate-the-maximum-bombs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2575-minimum-cuts-to-divide-a-circle) |
