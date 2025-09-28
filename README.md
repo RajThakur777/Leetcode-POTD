@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0165-compare-version-numbers) |
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0120-triangle) |
