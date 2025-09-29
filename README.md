@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1248,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0198-house-robber) |
@@ -1401,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0376-wiggle-subsequence) |
