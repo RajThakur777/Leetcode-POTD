@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2329-maximum-product-after-k-increments) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2358-number-of-ways-to-split-array) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2206-detonate-the-maximum-bombs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2388-replace-elements-in-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2428-equal-row-and-column-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2428-equal-row-and-column-pairs) |
@@ -1671,6 +1674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3201-distribute-candies-among-children-ii) |
