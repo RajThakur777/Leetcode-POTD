@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1184-car-pooling) |
+| [1642-water-bottles](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1642-water-bottles) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1928-number-of-orders-in-the-backlog) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
