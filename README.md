@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0695-max-area-of-island) |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0747-min-cost-climbing-stairs) |
@@ -2179,11 +2181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2280-count-good-triplets-in-an-array) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2280-count-good-triplets-in-an-array) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
