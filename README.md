@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0435-non-overlapping-intervals) |
@@ -1598,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0498-diagonal-traverse) |
@@ -1709,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
@@ -2004,6 +2007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0744-network-delay-time) |
