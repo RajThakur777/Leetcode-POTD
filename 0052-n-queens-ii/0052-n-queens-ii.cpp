@@ -1,50 +1,57 @@
 class Solution {
 public:
+    bool is_Safe(int i , int j , vector<vector<char>> &grid) {
+        int n = grid.size();
 
-bool check(int r , int c , vector<string> &v , int n){
-        //check vertical direction:
-        for(int i=r; i>=0; i--){
-            if(v[i][c] == 'Q') return false;
+        int row = i;
+        int col = j;
+
+        for(int l=row-1; l>=0; l--) {
+            if(grid[l][col] == 'Q') {
+                return false;
+            }
         }
 
-        //check left diagonal:
-        for(int i=r,j=c; i>=0 && j>=0; i--,j--){
-            if(v[i][j] == 'Q') return false;
+        for(int l=row-1,r=col-1; l>=0 && r>=0; l--,r--) {
+            if(grid[l][r] == 'Q') {
+                return false;
+            }
         }
 
-        //check right diagonal:
-        for(int i=r,j=c; i>=0 && j<n; i--,j++){
-            if(v[i][j] == 'Q') return false;
+        for(int l=row-1,r=col+1; l>=0 && r<n; l--,r++) {
+            if(grid[l][r] == 'Q') {
+                return false;
+            }
         }
         return true;
     }
-    
-     void helper(int r , int &cnt , vector<string> &v , int n){
-        if(r == n){
-            cnt++;
-            return;
-        }
 
-        for(int i=0; i<n; i++){
-            if(check(r , i , v , n) == false) continue;
+    int solve(int row , vector<vector<char>> &grid) {
+        int n = grid.size();
 
-            v[r][i] = 'Q';
-            helper(r+1 , cnt , v , n);
-            v[r][i] = '.';
+        if(row == n) return 1;
+
+        int ans = 0;
+
+        for(int col=0; col<n; col++) {
+            if(is_Safe(row , col , grid)) {
+                grid[row][col] = 'Q';
+                ans += solve(row+1 , grid);
+                grid[row][col] = '.';
+            }
         }
+        return ans;
     }
 
     int totalNQueens(int n) {
-        int cnt = 0;
+        vector<vector<char>> grid(n , vector<char>(n));
 
-        vector<vector<string>> ans;
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<n; j++) {
+                grid[i][j] = '.';
+            }
+        }
 
-        string temp(n , '.');
-
-        vector<string> v(n , temp);
-
-        helper(0 , cnt , v , n);
-
-        return cnt;
+        return solve(0 , grid);
     }
 };
