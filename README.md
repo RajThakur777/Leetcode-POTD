@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1612-avoid-flood-in-the-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -1214,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -1457,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1612-avoid-flood-in-the-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -2026,6 +2030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1325-path-with-maximum-probability) |
 | [1464-reduce-array-size-to-the-half](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1917-maximum-average-pass-ratio) |
