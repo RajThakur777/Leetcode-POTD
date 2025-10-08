@@ -1,62 +1,45 @@
-// class Solution {
-// public:
-//     vector<int> successfulPairs(vector<int>& spells, vector<int>& potions, long long success) {
-//         int n = spells.size();
-
-//         sort(potions.begin() , potions.end());
-
-//         vector<int> ans;
-
-//         for(int i=0; i<n; i++){
-//             long long val = spells[i];
-
-//             auto idx = lower_bound(potions.begin() , potions.end() , (success + val - 1) / val);
-
-//             ans.push_back(potions.end() - idx);
-//         }   
-//         return ans;
-//     }
-// };
-
-
-
-
-
 class Solution {
 public:
+
+    int binarySearch(vector<int> &potions , int val , long long success) {
+        int l = 0;
+        int r = potions.size() - 1;
+
+        int ans = -1;
+        while(l <= r) {
+            int mid = (l + r) / 2;
+
+            if((long long)val * potions[mid] >= success) {
+                ans = mid;
+                r = mid - 1;
+            }
+            else {
+                l = mid + 1;
+            }
+        }
+        return ans;
+    }
+
     vector<int> successfulPairs(vector<int>& spells, vector<int>& potions, long long success) {
         int n = spells.size();
+        int m = potions.size();
+
+        vector<int> ans(n);
 
         sort(potions.begin() , potions.end());
 
-        vector<int> ans;
+        for(int i=0; i<n; i++) {
+            int val = spells[i];
 
-        for(int i=0; i<n; i++){
-            int low = 0;
-            int high = potions.size() - 1;
-
-            long long val = spells[i];
-
-            int idx = -1;
-            while(low <= high){
-                int mid = (low + high) / 2;
-
-                if((potions[mid]) * (val) >= success){
-                    idx = mid;
-                    high = mid - 1;
-                }
-                else {
-                    low = mid + 1;
-                }
-            }
+            int idx = binarySearch(potions , val , success);
 
             if(idx == -1) {
-                ans.push_back(0);
+                ans[i] = 0;
             }
             else {
-                ans.push_back(potions.size() - idx);
+                ans[i] = m - idx;
             }
-        }   
+        }
         return ans;
     }
 };
