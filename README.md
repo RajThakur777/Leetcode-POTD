@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0753-open-the-lock) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0692-top-k-frequent-words) |
+| [0740-delete-and-earn](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0778-reorganize-string) |
@@ -1306,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0806-domino-and-tromino-tiling) |
