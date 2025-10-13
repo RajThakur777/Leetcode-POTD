@@ -1,14 +1,15 @@
 class Solution {
-public:    
+public:
     int longestBalanced(string s) {
         int n = s.size();
 
-        int ans = INT_MIN;
+        int ans = INT_MIN; 
 
         for(int i=0; i<n; i++) {
             vector<int> freq(26 , 0);
-            for(int j=i; j<n; j++) {
-                freq[s[j] - 'a']++;
+            for(int j=i; j<n; j++) { 
+                freq[s[j] - 'a']++; 
+
                 int mini = INT_MAX;
                 int maxi = INT_MIN;
 
@@ -17,11 +18,11 @@ public:
                         mini = min(mini , freq[k]);
                         maxi = max(maxi , freq[k]);
                     }
-                }
+                }        
 
                 if(mini == maxi) {
                     ans = max(ans , (j - i + 1));
-                }
+                }    
             }
         }
         return ans;
