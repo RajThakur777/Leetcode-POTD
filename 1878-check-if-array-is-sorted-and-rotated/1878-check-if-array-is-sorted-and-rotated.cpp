@@ -1,25 +1,19 @@
 class Solution {
 public:
-    bool check(vector<int>& nums) {  
+    bool check(vector<int>& nums) {     
         int n = nums.size();
 
-        bool flag = false;
         vector<int> copy = nums;
         sort(copy.begin() , copy.end());
 
-        for(int pos=1; pos<=n; pos++){
-            vector<int> res(n);
-            for(int i=0; i<n; i++){
-                res[i] = (copy[(i+pos) % n]);
+        for(int i=0; i<n; i++) {
+            vector<int> ans(n);
+            int x = i;
+            for(int j=0; j<n; j++) {
+                ans[j] = (copy[(j+x) % n]);
             }
 
-            if(res == nums){
-                flag = true;
-                break;
-            }
-        } 
-        if(flag){
-            return true;
+            if(ans == nums) return true;
         }
         return false;
     }
