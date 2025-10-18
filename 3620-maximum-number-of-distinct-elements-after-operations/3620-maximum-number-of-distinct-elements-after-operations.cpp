@@ -9,11 +9,15 @@ public:
         int prev = INT_MIN;
 
         for(int i=0; i<n; i++) {
-            int curr = min(max(nums[i] - k , prev + 1) , nums[i] + k);
+            int miniVal = nums[i] - k;
 
-            if(curr > prev) {
+            if(prev < miniVal) {
+                prev = miniVal;
                 cnt++;
-                prev = curr;
+            }
+            else if(prev < nums[i] + k) {
+                prev = prev + 1;
+                cnt++;
             }
         }
         return cnt;
