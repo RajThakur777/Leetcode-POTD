@@ -3,11 +3,18 @@ public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
 
-        int res = 0;
-        for(int i=0; i<n; i++){
-            res ^= nums[i];
-            res ^= i;
+        set<int> st;
+        for(int i=0; i<n; i++) {
+            st.insert(nums[i]);
         }
-        return res ^ n;
+
+        int ans = -1;
+        for(int i=0; i<=1e4; i++) {
+            if(st.find(i) == st.end()) {
+                ans = i;
+                break;
+            }
+        }
+        return ans;
     }
 };
