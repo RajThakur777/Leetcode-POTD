@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1880-largest-merge-of-two-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -1793,6 +1794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2035-count-sub-islands) |
@@ -1867,6 +1869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1558-course-schedule-iv) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2103-find-all-groups-of-farmland) |
@@ -2120,6 +2123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2122-count-special-quadruplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2140-longest-subsequence-repeated-k-times) |
