@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1184-car-pooling) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1240-stone-game-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1240-stone-game-ii) |
 | [1290-make-array-strictly-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1319-unique-number-of-occurrences) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1184-car-pooling) |
+| [1240-stone-game-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1435-xor-queries-of-a-subarray) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1018-largest-perimeter-triangle) |
+| [1240-stone-game-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1356,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1240-stone-game-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1250-longest-common-subsequence) |
 | [1290-make-array-strictly-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -2200,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1240-stone-game-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3462-vowels-game-in-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3462-vowels-game-in-a-string) |
