@@ -1,25 +1,38 @@
-
-//Using DNF algo:
 class Solution {
- public:
-    void sortColors(vector<int>& nums) {
-        int n = nums.size();
+public:
+    void sortColors(vector<int>& nums) {   
+        int n = nums.size();   
 
-        int low = 0, mid = 0, high = n - 1;
+        int cnt_0 = 0;
+        int cnt_1 = 0;
+        int cnt_2 = 0;
 
-        while (mid <= high) {
-            if (nums[mid] == 0) {
-                swap(nums[low] , nums[mid]);
-                low++;
-                mid++;
-
-            } else if (nums[mid] == 1) {
-                mid++;
-
-            } else {
-                swap(nums[high] , nums[mid]);
-                high--;
+        for(int i=0; i<n; i++) {
+            if(nums[i] == 0) {
+                cnt_0++;
             }
+            else if(nums[i] == 1) {
+                cnt_1++;
+            }
+            else {
+                cnt_2++;
+            }
+        }
+
+        int idx = 0;
+        while(cnt_0--) {
+            nums[idx] = 0;
+            idx++;
+        }
+
+        while(cnt_1--) {
+            nums[idx] = 1;
+            idx++;
+        }
+
+        while(cnt_2--) {
+            nums[idx] = 2;
+            idx++;
         }
     }
 };
