@@ -1,38 +1,26 @@
+//DNF -> Dutch National Flag Algorithm:
 class Solution {
 public:
     void sortColors(vector<int>& nums) {   
-        int n = nums.size();   
+        int n = nums.size();
 
-        int cnt_0 = 0;
-        int cnt_1 = 0;
-        int cnt_2 = 0;
+        int low = 0;
+        int mid = 0;
+        int high = n-1;
 
-        for(int i=0; i<n; i++) {
-            if(nums[i] == 0) {
-                cnt_0++;
+        while(mid <= high) {
+            if(nums[mid] == 1) {
+                mid++;
             }
-            else if(nums[i] == 1) {
-                cnt_1++;
+            else if(nums[mid] == 0) {
+                swap(nums[low] , nums[mid]);
+                low++;
+                mid++;
             }
             else {
-                cnt_2++;
+                swap(nums[mid] , nums[high]);
+                high--;
             }
-        }
-
-        int idx = 0;
-        while(cnt_0--) {
-            nums[idx] = 0;
-            idx++;
-        }
-
-        while(cnt_1--) {
-            nums[idx] = 1;
-            idx++;
-        }
-
-        while(cnt_2--) {
-            nums[idx] = 2;
-            idx++;
         }
     }
 };
