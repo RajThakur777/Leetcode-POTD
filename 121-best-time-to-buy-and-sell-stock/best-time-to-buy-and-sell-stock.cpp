@@ -4,12 +4,13 @@ public:
         int n = prices.size();
 
         int ans = 0;
-        int mini = prices[0];
+
+        int prev = prices[0];
 
         for(int i=1; i<n; i++) {
-            int cost = prices[i] - mini;
-            ans = max(ans , cost);
-            mini = min(mini , prices[i]);
+            ans = max(ans , prices[i] - prev);
+
+            prev = min(prev , prices[i]);
         }
         return ans;
     }
