@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i">3622. Maximum Frequency of an Element After Performing Operations I</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> and two integers <code>k</code> and <code>numOperations</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i">Maximum Frequency of an Element After Performing Operations I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code> and two integers <code>k</code> and <code>numOperations</code>.</p>
 
 <p>You must perform an <strong>operation</strong> <code>numOperations</code> times on <code>nums</code>, where in each operation you:</p>
 
