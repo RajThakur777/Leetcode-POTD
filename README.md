@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2808-painting-the-walls](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2808-painting-the-walls) |
 | [2845-find-the-value-of-the-partition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2845-find-the-value-of-the-partition) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
@@ -1413,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2808-painting-the-walls](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
