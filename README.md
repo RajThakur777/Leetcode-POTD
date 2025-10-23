@@ -1376,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1240-stone-game-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1393-maximum-value-of-k-coins-from-piles) |
