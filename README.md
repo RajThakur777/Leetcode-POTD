@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2122-count-special-quadruplets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2206-detonate-the-maximum-bombs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -2161,6 +2165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2122-count-special-quadruplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2442-number-of-arithmetic-triplets) |
