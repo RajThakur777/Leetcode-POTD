@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     bool isPossible(int x) {
         vector<int> freq(10 , 0);
 
@@ -9,7 +8,7 @@ public:
             freq[dig]++;
             x /= 10;
         }
-        
+
         for(int i=0; i<10; i++) {
             if(freq[i] > 0) {
                 if(freq[i] != i) return false;
