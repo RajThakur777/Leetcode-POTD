@@ -1,25 +1,25 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        int n = intervals.size();
 
-        sort(intervals.begin(), intervals.end(), [](const vector<int>& a, const vector<int>& b) {
-            return a[0] < b[0];
-        });
+        sort(intervals.begin() , intervals.end());
 
-        vector<vector<int>> merged;
-        vector<int> prev = intervals[0];
+        vector<vector<int>> ans;
 
-        for (int i = 1; i < intervals.size(); ++i) {
-            vector<int> interval = intervals[i];
-            if (interval[0] <= prev[1]) {
-                prev[1] = max(prev[1], interval[1]);
-            } else {
-                merged.push_back(prev);
-                prev = interval;
+        vector<int> prev = {intervals[0][0] , intervals[0][1]};
+
+        for(int i=1; i<n; i++) {
+            if(intervals[i][0] <= prev[1]) {
+                prev[0] = min(prev[0] , intervals[i][0]);
+                prev[1] = max(prev[1] , intervals[i][1]);
+            }
+            else {
+                ans.push_back(prev);
+                prev = {intervals[i][0] , intervals[i][1]};
             }
         }
-
-        merged.push_back(prev);
-        return merged;        
+        ans.push_back(prev);
+        return ans;
     }
 };
