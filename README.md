@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2169-simple-bank-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2176-parallel-courses-iii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2122-count-special-quadruplets) |
+| [2169-simple-bank-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1655,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1955-seat-reservation-manager](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2434-design-a-number-container-system) |
