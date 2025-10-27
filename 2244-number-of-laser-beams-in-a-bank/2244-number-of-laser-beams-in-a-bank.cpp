@@ -4,7 +4,8 @@ public:
         int m = bank.size();
         int n = bank[0].size();
 
-        vector<int> row(m);
+        int ans = 0;
+        int prev = 0;
 
         for(int i=0; i<m; i++) {
             int cnt = 0;
@@ -13,21 +14,10 @@ public:
                     cnt++;
                 }
             }
-            row[i] = cnt;
-        }
-
-        vector<int> res;
-        for(int i=0; i<m; i++) {
-            if(row[i] > 0) {
-                res.push_back(row[i]);
+            if(cnt > 0) {
+                ans += (prev * cnt);
+                prev = cnt;
             }
-        }
-
-        if(res.empty()) return 0;
-
-        int ans = 0;
-        for(int i=0; i<res.size()-1; i++) {
-            ans += ((res[i] * res[i+1]));
         }
         return ans;
     }
