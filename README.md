@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0753-open-the-lock) |
+| [0792-binary-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -1270,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0907-koko-eating-bananas) |
