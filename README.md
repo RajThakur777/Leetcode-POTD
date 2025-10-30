@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1677-matrix-diagonal-sum) |
 | [1680-count-all-possible-routes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1680-count-all-possible-routes) |
@@ -1414,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1680-count-all-possible-routes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1680-count-all-possible-routes) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1549,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1629,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1651,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
 |  |
