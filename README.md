@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
