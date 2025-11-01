@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0526-beautiful-arrangement) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0561-array-partition) |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0719-find-k-th-smallest-pair-distance) |
