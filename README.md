@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1104-coloring-a-border) |
@@ -1302,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0907-koko-eating-bananas) |
 | [0947-online-election](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0947-online-election) |
 | [1046-max-consecutive-ones-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1290-make-array-strictly-increasing](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1290-make-array-strictly-increasing) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1352-maximum-profit-in-job-scheduling) |
