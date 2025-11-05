@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0300-longest-increasing-subsequence) |
@@ -1258,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0372-super-pow) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1297,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0300-longest-increasing-subsequence) |
@@ -1731,6 +1734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
