@@ -1,7 +1,7 @@
 class Solution {
 public:
     void dfs(int node, unordered_map<int, vector<int>> &adj, int id, vector<int>& nodeId, 
-            unordered_map<int, set<int>>& mp, vector<bool>& visited) {
+        unordered_map<int, set<int>>& mp, vector<bool>& visited) {
         visited[node] = true;
         mp[id].insert(node);
         nodeId[node] = id;
