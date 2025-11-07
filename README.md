@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2634-minimum-common-value) |
 | [2636-maximum-subsequence-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2636-maximum-subsequence-score) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2529-range-product-queries-of-powers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2714-left-and-right-sum-differences) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
@@ -1353,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2634-minimum-common-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2690-house-robber-iv) |
@@ -1632,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2681-put-marbles-in-bags) |
@@ -2238,6 +2243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3827-implement-router) |
