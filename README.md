@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0807-custom-sort-string) |
+| [0812-rotate-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0869-similar-string-groups) |
 | [0889-buddy-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0889-buddy-strings) |
@@ -1236,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajThakur777/Leetcode-POTD/tree/master/3309-count-prefix-and-suffix-pairs-i) |
