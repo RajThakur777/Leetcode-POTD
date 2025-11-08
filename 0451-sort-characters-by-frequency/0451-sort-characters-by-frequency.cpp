@@ -3,25 +3,26 @@ public:
     string frequencySort(string s) {
         int n = s.size();
 
-        map<char , int> mpp;
-        for(int i=0; i<n; i++){
+        unordered_map<char , int> mpp;
+
+        for(int i=0; i<n; i++) {
             mpp[s[i]]++;
         }
 
         priority_queue<pair<int , char>> pq;
-        for(auto it : mpp){
+        for(auto it : mpp) {
             pq.push({it.second , it.first});
         }
 
-        string ans = "";
+        string ans;
 
-        while(!pq.empty()){
-            char ch = pq.top().second;
+        while(!pq.empty()) {
             int freq = pq.top().first;
+            char ch = pq.top().second;
 
             pq.pop();
 
-            ans.append(freq , ch);
+            ans += string(freq , ch);
         }
         return ans;
     }
