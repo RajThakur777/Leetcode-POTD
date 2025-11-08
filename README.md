@@ -1166,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1835-decode-xored-permutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1835-decode-xored-permutation) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1477,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-count-all-possible-routes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1680-count-all-possible-routes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1522,6 +1524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1680-count-all-possible-routes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1680-count-all-possible-routes) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
