@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1880-largest-merge-of-two-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1848-sum-of-unique-elements) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
