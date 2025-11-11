@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0491-non-decreasing-subsequences) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0647-palindromic-substrings) |
@@ -1425,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0516-longest-palindromic-subsequence) |
