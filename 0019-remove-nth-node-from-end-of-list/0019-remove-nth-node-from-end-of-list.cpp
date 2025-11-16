@@ -10,29 +10,54 @@
  */
 class Solution {
 public:
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
-        if(head == nullptr) return nullptr;
+    int cntOfNodes(ListNode* head) {
+        int cnt = 0;
 
-        int sz = 0;
         ListNode* temp = head;
 
-        while(temp != nullptr){
-            sz++;
+        while(temp != nullptr) {
+            cnt++;
             temp = temp->next;
         }
-        
-        if(sz == n) return head->next;
+        return cnt;
+    }
 
-        int toFind = sz - n;
-        int i = 1;
+    ListNode* removeNthFromEnd(ListNode* head, int n) { 
+        if(head == nullptr) return head;
 
-        ListNode* prev = head;
-        while(i < toFind){
-            prev = prev->next;
-            i++;
+        int nodes = cntOfNodes(head);
+
+        int deleteNode = nodes - n + 1;
+
+        if(deleteNode == 1) {
+            ListNode* temp = head;
+            head = head->next;
+            temp->next = nullptr;
+            
+            return head;
         }
-        prev->next = prev->next->next;
+        else if(deleteNode == nodes) {
+            ListNode* temp = head;
 
-        return head;
+            while(temp->next->next != nullptr) {
+                temp = temp->next;
+            }
+            temp->next = nullptr;
+
+            return head;
+        }
+        else {
+            int nodeNumber = deleteNode - 1;
+
+            ListNode* temp = head;
+
+            while(nodeNumber != 1) {
+                nodeNumber--;
+                temp = temp->next;
+            }
+            temp->next = temp->next->next;
+
+            return head;
+        }
     }
 };
