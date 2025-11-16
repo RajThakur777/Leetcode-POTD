@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximize-expression-of-three-elements">Maximize Expression of Three Elements</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximize-expression-of-three-elements">4112. Maximize Expression of Three Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Choose three elements <code>a</code>, <code>b</code>, and <code>c</code> from <code>nums</code> at <strong>distinct</strong> indices such that the value of the expression <code>a + b - c</code> is maximized.</p>
 
