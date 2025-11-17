@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away">1548. Check If All 1's Are at Least Length K Places Away</a></h2><h3>Easy</h3><hr><p>Given an binary array <code>nums</code> and an integer <code>k</code>, return <code>true</code><em> if all </em><code>1</code><em>&#39;s are at least </em><code>k</code><em> places away from each other, otherwise return </em><code>false</code>.</p>
+<h2><a href="https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away">Check If All 1's Are at Least Length K Places Away</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an binary array <code>nums</code> and an integer <code>k</code>, return <code>true</code><em> if all </em><code>1</code><em>&#39;s are at least </em><code>k</code><em> places away from each other, otherwise return </em><code>false</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
