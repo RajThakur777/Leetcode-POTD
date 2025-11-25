@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/RajThakur777/Leetcode-POTD/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1018-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/RajThakur777/Leetcode-POTD/tree/master/1369-minimum-swaps-to-make-strings-equal) |
