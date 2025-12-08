@@ -5,12 +5,10 @@ public:
 
         for(int i=1; i<=n; i++) {
             for(int j=1; j<=n; j++) {
-                for(int k=1; k<=n; k++) {
-                    if((i != j) && (j != k)) {
-                        if((i * i) + (j * j) == (k * k)) {
-                            ans++;
-                        }
-                    }
+                int c = sqrt((i * i) + (j * j));
+
+                if(c <= n && (c * c) == ((i * i) + (j * j))) {
+                    ans++;
                 }
             }
         }
