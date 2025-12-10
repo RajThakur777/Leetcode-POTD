@@ -16,7 +16,7 @@ public:
 
         bool flag = false;
 
-        while(fast->next != nullptr && fast->next->next != nullptr) {
+        while(fast != nullptr && fast->next != nullptr) {
             slow = slow->next;
             fast = fast->next->next;
 
@@ -24,7 +24,7 @@ public:
                 flag = true;
                 break;
             }
-        }   
+        }
 
         if(!flag) return nullptr;
 
